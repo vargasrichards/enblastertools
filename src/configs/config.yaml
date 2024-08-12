@@ -6,22 +6,6 @@ seq_align:
 - align: True # if set to true, will call MUSCLE 
 
 filter:
-- depth: 
+- depth:  # for each variety, how many ranks down to check ... 
 
-
-graphics:
-- job: Linux
-  pool:
-    vmImage: 'ubuntu-latest'
-  steps:
-  - template: templates/npm-steps.yml  # Template reference
-
-
-- job: Windows
-  pool:
-    vmImage: 'windows-latest'
-  steps:
-  - script: echo This script runs before the template's steps, only on Windows.
-  - template: templates/npm-steps.yml  # Template reference
-  - script: echo This step runs after the template's steps.
 

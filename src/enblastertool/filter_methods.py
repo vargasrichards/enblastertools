@@ -12,7 +12,6 @@ A. Vargas Richards, 09.08.2024
 import pandas as pd
 import os
 
-
 def tabulate(summary_file): # first convert the summary file to a pandas dataframe
     fwf = pd.read_fwf(summary_file)
     print(fwf)
@@ -25,7 +24,9 @@ def make_filter(config_file, plugin): # construct filter rules to apply to the d
     return filtered_data
 
 def apply_filter(dataframe, filter_rules): # apply the specified filter rules to the dataframe
-
+    for index, row in dataframe.iterrows():
+    
+        new_df = pd.concat([new_df, filtd_row])
     return new_df # return the filtered results
 
 

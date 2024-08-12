@@ -1,0 +1,6 @@
+# configuration file for ensembl-blast-tools
+# comment lines
+
+'species' : 'Triticum aestivum'
+'job id' : '   '
+

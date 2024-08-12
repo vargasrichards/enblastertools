@@ -18,7 +18,7 @@ def tabulate(summary_file): # first convert the summary file to a pandas datafra
     return
 
 def make_filter(config_file, plugin): # construct filter rules to apply to the dataframe
-
+    
 
 
     return 
@@ -26,6 +26,7 @@ def make_filter(config_file, plugin): # construct filter rules to apply to the d
 def apply_filter(dataframe, filter_rules): # apply the specified filter rules to the dataframe
 
     return new_df # return the filtered results
+
 
 
 

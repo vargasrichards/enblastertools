@@ -1,0 +1,1728 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Triticum_aestivum_claire.EIv1.1.dna.toplevel
+           1,216,421 sequences; 14,299,452,461 total letters
+
+
+
+Query= TraesCSU02G146300
+
+Length=3069
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+EG:cle_scaffold_005618 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3838    0.0
+EG:cle_scaffold_139861 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1679    0.0
+EG:cle_scaffold_096448 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  101     1e-17
+EG:cle_scaffold_036487 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  99.6    4e-17
+EG:cle_scaffold_124229 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  91.7    1e-14
+EG:cle_scaffold_067339 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  87.7    2e-13
+EG:cle_scaffold_118297 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  83.8    3e-12
+EG:cle_scaffold_263411 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  81.8    1e-11
+EG:cle_scaffold_077235 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  81.8    1e-11
+EG:cle_scaffold_050893 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  81.8    1e-11
+EG:cle_scaffold_044992 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  81.8    1e-11
+EG:cle_scaffold_027577 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  81.8    1e-11
+EG:cle_scaffold_015207 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  81.8    1e-11
+EG:cle_scaffold_101829 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  79.8    4e-11
+EG:cle_scaffold_008723 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  79.8    4e-11
+EG:cle_scaffold_068448 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  79.8    4e-11
+EG:cle_scaffold_054020 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  77.8    2e-10
+EG:cle_scaffold_107730 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  75.8    7e-10
+EG:cle_scaffold_038478 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  75.8    7e-10
+EG:cle_scaffold_090485 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  75.8    7e-10
+EG:cle_scaffold_004288 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  75.8    7e-10
+EG:cle_scaffold_147782 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_029223 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_009801 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_277040 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_148440 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_049113 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_045006 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_042263 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_018177 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_015645 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_015034 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  73.8    3e-09
+EG:cle_scaffold_085887 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_073466 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_042451 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_011620 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_001948 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_781546 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_080102 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_079002 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_060241 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_059523 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_053549 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_020888 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_004646 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  71.9    1e-08
+EG:cle_scaffold_160016 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  69.9    4e-08
+EG:cle_scaffold_124087 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  69.9    4e-08
+EG:cle_scaffold_034612 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  69.9    4e-08
+EG:cle_scaffold_033880 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  69.9    4e-08
+EG:cle_scaffold_026971 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  69.9    4e-08
+
+
+>EG:cle_scaffold_005618 dna:scaffold scaffold:EIv1.1:cle_scaffold_005618:1:206614:1
+REF
+Length=206614
+
+ Score = 3838 bits (1936),  Expect = 0.0
+ Identities = 1936/1936 (100%), Gaps = 0/1936 (0%)
+ Strand=Plus/Plus
+
+Query  245   CCGGCGGTGTTCACGGTCCTCAGAGAGAGATTCGGGCCCATCTACAGGTGAGTTTGCCCG  304
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2616  CCGGCGGTGTTCACGGTCCTCAGAGAGAGATTCGGGCCCATCTACAGGTGAGTTTGCCCG  2675
+
+Query  305   TGCTAATTAATTCCACCATGCAGGCGaaaaaaaTGGTGCCTTAACATGTGTATTTGTGTC  364
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2676  TGCTAATTAATTCCACCATGCAGGCGAAAAAAATGGTGCCTTAACATGTGTATTTGTGTC  2735
+
+Query  365   ATTTTCTCAGGTTTCACATGGGTAGACAGCCGCTAGTTATGATTGCAGACCCCGAGCTGT  424
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2736  ATTTTCTCAGGTTTCACATGGGTAGACAGCCGCTAGTTATGATTGCAGACCCCGAGCTGT  2795
+
+Query  425   GCAGAGAGGTGGGAATCCAGAAGTTCAAGAGCATCCCCAACAGAAGCGTCCCTAGTCCTA  484
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2796  GCAGAGAGGTGGGAATCCAGAAGTTCAAGAGCATCCCCAACAGAAGCGTCCCTAGTCCTA  2855
+
+Query  485   TTCGCAGCTCGCCTATTCACAACAAAGGCCTCTTCTTTACGAGGTTGGATGTGTGCACCT  544
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2856  TTCGCAGCTCGCCTATTCACAACAAAGGCCTCTTCTTTACGAGGTTGGATGTGTGCACCT  2915
+
+Query  545   TTATTACTTTATCTTCTTCCGTATATATCCTTGACTGAATCAACGGTGGGAGTTAAAACA  604
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2916  TTATTACTTTATCTTCTTCCGTATATATCCTTGACTGAATCAACGGTGGGAGTTAAAACA  2975
+
+Query  605   TGTACGCCTTTAGAGATTTCATGAAGTCAAATGTGTTGAGTGCTTCCAAAGTTTCATCAT  664
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2976  TGTACGCCTTTAGAGATTTCATGAAGTCAAATGTGTTGAGTGCTTCCAAAGTTTCATCAT  3035
+
+Query  665   GAAATGATATCCGCGGAAATCGTTAAAATAATTTATGCTCCAAAAATGATATTTTCGAAA  724
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3036  GAAATGATATCCGCGGAAATCGTTAAAATAATTTATGCTCCAAAAATGATATTTTCGAAA  3095
+
+Query  725   GCATTTTGGAGTGCTGAttttttttttcgttttttGCCATTCCATGATAAAATTTGCAAG  784
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3096  GCATTTTGGAGTGCTGATTTTTTTTTTCGTTTTTTGCCATTCCATGATAAAATTTGCAAG  3155
+
+Query  785   CACTCAAtttttttCAAAGTTTGCCATGAAAAGTTTCAGAtttttttCTTCTAATTTTAC  844
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3156  CACTCAATTTTTTTCAAAGTTTGCCATGAAAAGTTTCAGATTTTTTTCTTCTAATTTTAC  3215
+
+Query  845   TGTTCATCACGAGCAGAAGAGACTTTCAGTAAGTATTCATTCGGTTTATAAGTCGGGCAC  904
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3216  TGTTCATCACGAGCAGAAGAGACTTTCAGTAAGTATTCATTCGGTTTATAAGTCGGGCAC  3275
+
+Query  905   AAGTTTGTAGGTCTTCAATTTAACTACGTACCAAACTATGCGTAATACTCCACGACAAGA  964
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3276  AAGTTTGTAGGTCTTCAATTTAACTACGTACCAAACTATGCGTAATACTCCACGACAAGA  3335
+
+Query  965   GTACGTTTAGAAACATCATTCAACCACGAATCTAGTATAGGAATGCAAACATTAGTACTG  1024
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3336  GTACGTTTAGAAACATCATTCAACCACGAATCTAGTATAGGAATGCAAACATTAGTACTG  3395
+
+Query  1025  CTACAGGTAACACCAAGAATAATCTATCATCTAACATGCTTTCACTATCATCTCTTGATG  1084
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3396  CTACAGGTAACACCAAGAATAATCTATCATCTAACATGCTTTCACTATCATCTCTTGATG  3455
+
+Query  1085  ACTTGAGGATTATTATGCATTTTCATTCATTGTATACGCTCTATTAATTAGATGTAAACT  1144
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3456  ACTTGAGGATTATTATGCATTTTCATTCATTGTATACGCTCTATTAATTAGATGTAAACT  3515
+
+Query  1145  GTGCCGCACCAAGAAGTGAAGCAACACAACAATACAAACTATATTGTTATTTAATGCAAA  1204
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3516  GTGCCGCACCAAGAAGTGAAGCAACACAACAATACAAACTATATTGTTATTTAATGCAAA  3575
+
+Query  1205  CAACAAACTATAGAACTGGGTCATGTAGGTCGACTGTTTTAGTAGAATGTTCCATACCAA  1264
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3576  CAACAAACTATAGAACTGGGTCATGTAGGTCGACTGTTTTAGTAGAATGTTCCATACCAA  3635
+
+Query  1265  TTTGTAAAAAATTAATACTCAGTACATATCTAGCTAGAGCTTGTTTTAAATCACAAGCAT  1324
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3636  TTTGTAAAAAATTAATACTCAGTACATATCTAGCTAGAGCTTGTTTTAAATCACAAGCAT  3695
+
+Query  1325  ATCACTGTCTCCGCAGGGACTCGAGATGGCAATCCATGAGAAATGTCATCATCTCCATCT  1384
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3696  ATCACTGTCTCCGCAGGGACTCGAGATGGCAATCCATGAGAAATGTCATCATCTCCATCT  3755
+
+Query  1385  ACCAGCCGTCGCACGTGGCAAGCCTCATCCCTTCCTTCCAACCGTACATTGAACGGGCGG  1444
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3756  ACCAGCCGTCGCACGTGGCAAGCCTCATCCCTTCCTTCCAACCGTACATTGAACGGGCGG  3815
+
+Query  1445  GGCGCCTCCTCCGGCATGGCGAGGAGATCACCTTCTCCGACCTCTCGTTAAAGCTCTTCA  1504
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3816  GGCGCCTCCTCCGGCATGGCGAGGAGATCACCTTCTCCGACCTCTCGTTAAAGCTCTTCA  3875
+
+Query  1505  GCGACACTATTGGTCAGGTCGCCTTCGGTGTGGACTTCGGCCTCACCAAAGGCACCACCT  1564
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3876  GCGACACTATTGGTCAGGTCGCCTTCGGTGTGGACTTCGGCCTCACCAAAGGCACCACCT  3935
+
+Query  1565  CTCCACCACCGAAACACCATGTCGATTGTGCTGAGACTGTCGACATGACAACAGATTTCA  1624
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3936  CTCCACCACCGAAACACCATGTCGATTGTGCTGAGACTGTCGACATGACAACAGATTTCA  3995
+
+Query  1625  TCAAAAAGCACTTCTACGCCACGACGTCCCTCAAGATGGACCTCTCAGGCTCCGTGTCCA  1684
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3996  TCAAAAAGCACTTCTACGCCACGACGTCCCTCAAGATGGACCTCTCAGGCTCCGTGTCCA  4055
+
+Query  1685  TCATCCTTGGCATGCTCGTGCCGTTGCTACAGGAACCTGTGAGGCAGCTCCTGCTGCGTG  1744
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4056  TCATCCTTGGCATGCTCGTGCCGTTGCTACAGGAACCTGTGAGGCAGCTCCTGCTGCGTG  4115
+
+Query  1745  TGCCGGGCTCAAAAGACCGCCGGATGGAAGAGACCAACTTGGCCATGAGTGGGCTACTGG  1804
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4116  TGCCGGGCTCAAAAGACCGCCGGATGGAAGAGACCAACTTGGCCATGAGTGGGCTACTGG  4175
+
+Query  1805  ACAACATTGTGGCTGAGCGGGCGGCACAAGCTGACAGGGGGGAGAAGAACTTCCTGTCTG  1864
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4176  ACAACATTGTGGCTGAGCGGGCGGCACAAGCTGACAGGGGGGAGAAGAACTTCCTGTCTG  4235
+
+Query  1865  TGATGCTTAATGCAAGCGAGAGCACAGACGCAATGAGGAAGTTGTTGACGCAAGATTACG  1924
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4236  TGATGCTTAATGCAAGCGAGAGCACAGACGCAATGAGGAAGTTGTTGACGCAAGATTACG  4295
+
+Query  1925  TGAGCGCACTTACATACGAGCACTTACTTGCAGGGTCGGTGACCATGTCCTTCACGCTGT  1984
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4296  TGAGCGCACTTACATACGAGCACTTACTTGCAGGGTCGGTGACCATGTCCTTCACGCTGT  4355
+
+Query  1985  CAAGCCTGGTGTACCTTGTGGCGATGTACCCCGAGGTAGAGGAGAAGCTACTCAAGGAGA  2044
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4356  CAAGCCTGGTGTACCTTGTGGCGATGTACCCCGAGGTAGAGGAGAAGCTACTCAAGGAGA  4415
+
+Query  2045  TCGACGCTTTTGGGCCCAAAGATGTGGTACCCAATGTTGAGGACATCCAGACCAAATTCC  2104
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4416  TCGACGCTTTTGGGCCCAAAGATGTGGTACCCAATGTTGAGGACATCCAGACCAAATTCC  4475
+
+Query  2105  CTTACATGGAGCAGGTTAGTTGGATTCAGAACATGAGTCAAGTGCTCAAAACTAAATATT  2164
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4476  CTTACATGGAGCAGGTTAGTTGGATTCAGAACATGAGTCAAGTGCTCAAAACTAAATATT  4535
+
+Query  2165  ACTTCTCATACGATTC  2180
+             ||||||||||||||||
+Sbjct  4536  ACTTCTCATACGATTC  4551
+
+
+ Score = 1965 bits (991),  Expect = 0.0
+ Identities = 994/995 (99%), Gaps = 0/995 (0%)
+ Strand=Plus/Plus
+
+Query  2075  CCAATGTTGAGGACATCCAGACCAAATTCCCTTACATGGAGCAGGTTAGTTGGATTCAGA  2134
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4858  CCAATGTTGAGGACATCCAGACCAAATTCCCTTACATGGAGCAGGTTAGTTGGATTCAGA  4917
+
+Query  2135  ACATGAGTCAAGTGCTCAAAACTAAATATTACTTCTCATACGATTCGATCTCAAAACTAT  2194
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4918  ACATGAGTCAAGTGCTCAAAACTAAATATTACTTCTCATACGATTCGATCTCAAAACTAT  4977
+
+Query  2195  ATATGCAACTAGTTGCCTGCTTATTTGTCGGGCATCTAAATGTGACTTGTTTTCGTTCGT  2254
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4978  ATATGCAACTAGTTGCCTGCTTATTTGTCGGGCATCTAAATGTGACTTGTTTTCGTTCGT  5037
+
+Query  2255  TAATTAGTTTCTTCTTTGAGAGtttttttGTATGATATATAGGTTTTGAAAGAGACGATG  2314
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5038  TAATTAGTTTCTTCTTTGAGAGTTTTTTTGTATGATATATAGGTTTTGAAAGAGACGATG  5097
+
+Query  2315  AGATTCTACACTGTGTCCCCGCTGATTGCTAGGGAGGCATCCGAGGATGTCCAGATTGGA  2374
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5098  AGATTCTACACTGTGTCCCCGCTGATTGCTAGGGAGGCATCCGAGGATGTCCAGATTGGA  5157
+
+Query  2375  GGCTATGTCCTTCCTAAGGTTAGTGCCTTGTGCTTCCTACGTTACCAACCCGTAAACATC  2434
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5158  GGCTATGTCCTTCCTAAGGTTAGTGCCTTGTGCTTCCTACGTTACCAACCCGTAAACATC  5217
+
+Query  2435  AGGCCCTAATTGTTTCAACTATCATTCCTCCCATAACAAAGCAAGCCTATTTGTCGAATA  2494
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5218  AGGCCCTAATTGTTTCAACTATCATTCCTCCCATAACAAAGCAAGCCTATTTGTCGAATA  5277
+
+Query  2495  TTGTTGCACCAAGTTATTTGTTTAACAAAGAGTAAAAACAATTGGGGTGATATTCAGGGT  2554
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5278  TTGTTGCACCAAGTTATTTGTTTAACAAAGAGTAAAAACAATTGGGGTGATATTCAGGGT  5337
+
+Query  2555  ACTTGGGTGTGGCTAGCACCCGGCGTACTAGCAAAAGACCCAAAGCAGTTCCCAGACCCC  2614
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5338  ACTTGGGTGTGGCTAGCACCCGGCGTACTAGCAAAAGACCCAAAGCAGTTCCCAGACCCC  5397
+
+Query  2615  GACGTGTTTTGGCCTGAGCGGTTTGACCCTGAGAGCGAGGAATGCAAGCGAAGGCATCCC  2674
+             ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5398  GACGTGTTTCGGCCTGAGCGGTTTGACCCTGAGAGCGAGGAATGCAAGCGAAGGCATCCC  5457
+
+Query  2675  TATGCATTCATTCCCTTTGGTATTGGACCCCGGGCATGCATTGGGCAGAAGTTCGCATTC  2734
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5458  TATGCATTCATTCCCTTTGGTATTGGACCCCGGGCATGCATTGGGCAGAAGTTCGCATTC  5517
+
+Query  2735  CAGCAGCTCAAGCTCGTCATCCTCCACCTCTACCGCCACCACGTCTTCAGGCACTCGCCC  2794
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5518  CAGCAGCTCAAGCTCGTCATCCTCCACCTCTACCGCCACCACGTCTTCAGGCACTCGCCC  5577
+
+Query  2795  AACATGGAATTCCCGCTGCAGTTCCAGTATTCCATCTTGGTCAACTTCAAGCATGGTGTC  2854
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5578  AACATGGAATTCCCGCTGCAGTTCCAGTATTCCATCTTGGTCAACTTCAAGCATGGTGTC  5637
+
+Query  2855  AAGCTCCAGGTCATCGAAAGGAAGACTTGATATGTGTCTAGCAAGTAGCAACTCTATCTA  2914
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5638  AAGCTCCAGGTCATCGAAAGGAAGACTTGATATGTGTCTAGCAAGTAGCAACTCTATCTA  5697
+
+Query  2915  AATATCATGGATATGTGTTCTTATaaaaaaaaTGTGAATTTATGAAATATGTACATGCTA  2974
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5698  AATATCATGGATATGTGTTCTTATAAAAAAAATGTGAATTTATGAAATATGTACATGCTA  5757
+
+Query  2975  TTTTGTACAACATACATGAAGATTCTGTAATGCGTGTAACCTTGTTCTTATATATGGAAT  3034
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5758  TTTTGTACAACATACATGAAGATTCTGTAATGCGTGTAACCTTGTTCTTATATATGGAAT  5817
+
+Query  3035  AAAAGCTGATGCATGTCGTTGTTTTCGTTCCCGAA  3069
+             |||||||||||||||||||||||||||||||||||
+Sbjct  5818  AAAAGCTGATGCATGTCGTTGTTTTCGTTCCCGAA  5852
+
+
+ Score = 936 bits (472),  Expect = 0.0
+ Identities = 517/532 (97%), Gaps = 0/532 (0%)
+ Strand=Plus/Plus
+
+Query  2478   AGCCTATTTGTCGAATATTGTTGCACCAAGTTATTTGTTTAACAAAGAGTAAAAACAATT  2537
+              ||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||
+Sbjct  29248  AGCCTATTTGTCGAATATTGTTGCACCAAGTTAATTTTTTAACAAAGAGTAAAAACAATT  29307
+
+Query  2538   GGGGTGATATTCAGGGTACTTGGGTGTGGCTAGCACCCGGCGTACTAGCAAAAGACCCAA  2597
+              || ||||||||||||||||||||| |||||||||||| ||||||||||||||||| ||||
+Sbjct  29308  GGAGTGATATTCAGGGTACTTGGGCGTGGCTAGCACCGGGCGTACTAGCAAAAGAACCAA  29367
+
+Query  2598   AGCAGTTCCCAGACCCCGACGTGTTTTGGCCTGAGCGGTTTGACCCTGAGAGCGAGGAAT  2657
+              |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||
+Sbjct  29368  AGCAGTTCCCAGACCCCGACGTGTTTCGGCCTGAGCGGTTTGACCCTGAGAGCGAGGAAT  29427
+
+Query  2658   GCAAGCGAAGGCATCCCTATGCATTCATTCCCTTTGGTATTGGACCCCGGGCATGCATTG  2717
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29428  GCAAGCGAAGGCATCCCTATGCATTCATTCCCTTTGGTATTGGACCCCGGGCATGCATTG  29487
+
+Query  2718   GGCAGAAGTTCGCATTCCAGCAGCTCAAGCTCGTCATCCTCCACCTCTACCGCCACCACG  2777
+              ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29488  GGCAGAAGTTCGCGTTCCAGCAGCTCAAGCTCGTCATCCTCCACCTCTACCGCCACCACG  29547
+
+Query  2778   TCTTCAGGCACTCGCCCAACATGGAATTCCCGCTGCAGTTCCAGTATTCCATCTTGGTCA  2837
+              |||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  29548  TCTTCAGGCACTTGCCCAACATGGAATGCCCGCTGCAGTTCCAGTATTCCATCTTGGTCA  29607
+
+Query  2838   ACTTCAAGCATGGTGTCAAGCTCCAGGTCATCGAAAGGAAGACTTGATATGTGTCTAGCA  2897
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29608  ACTTCAAGCATGGTGTCAAGCTCCAGGTCATCGAAAGGAAGACTTGATATGTGTCTAGCA  29667
+
+Query  2898   AGTAGCAACTCTATCTAAATATCATGGATATGTGTTCTTATaaaaaaaaTGTGAATTTAT  2957
+              ||||||||||||||||||||| ||||||||||||||||||||||||| ||||||||||||
+Sbjct  29668  AGTAGCAACTCTATCTAAATACCATGGATATGTGTTCTTATAAAAAAGATGTGAATTTAT  29727
+
+Query  2958   GAAATATGTACATGCTATTTTGTACAACATACATGAAGATTCTGTAATGCGT  3009
+              |||||||||||||||| ||||||| |||||||||| ||||||||||||||||
+Sbjct  29728  GAAATATGTACATGCTGTTTTGTAGAACATACATGGAGATTCTGTAATGCGT  29779
+
+
+ Score = 837 bits (422),  Expect = 0.0
+ Identities = 461/474 (97%), Gaps = 0/474 (0%)
+ Strand=Plus/Plus
+
+Query  1810   ATTGTGGCTGAGCGGGCGGCACAAGCTGACAGGGGGGAGAAGAACTTCCTGTCTGTGATG  1869
+              |||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28580  ATTGTGGCTGAGCGGGGGGCACAAGCTGACAGGGGGGAGAAGAACTTCCTGTCTGTGATG  28639
+
+Query  1870   CTTAATGCAAGCGAGAGCACAGACGCAATGAGGAAGTTGTTGACGCAAGATTACGTGAGC  1929
+              |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  28640  CTTAATGCAAGCGAGAGCACAGACGCAATGAGGAAGTTGTTGACGCAAGACTACGTGAGC  28699
+
+Query  1930   GCACTTACATACGAGCACTTACTTGCAGGGTCGGTGACCATGTCCTTCACGCTGTCAAGC  1989
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28700  GCACTTACATACGAGCACTTACTTGCAGGGTCGGTGACCATGTCCTTCACGCTGTCAAGC  28759
+
+Query  1990   CTGGTGTACCTTGTGGCGATGTACCCCGAGGTAGAGGAGAAGCTACTCAAGGAGATCGAC  2049
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  28760  CTGGTGTACCTTGTGGCGATGTACCCCGAGGTAGAGGAGAAGCTACTCAAGGAGATTGAC  28819
+
+Query  2050   GCTTTTGGGCCCAAAGATGTGGTACCCAATGTTGAGGACATCCAGACCAAATTCCCTTAC  2109
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28820  GCTTTTGGGCCCAAAGATGTGGTACCCAATGTTGAGGACATCCAGACCAAATTCCCTTAT  28879
+
+Query  2110   ATGGAGCAGGTTAGTTGGATTCAGAACATGAGTCAAGTGCTCAAAACTAAATATTACTTC  2169
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  28880  ATGGAGCAGGTTAGTTGGATTCAGAACATGAGTCAAGTGCTCAAAACTAAATAGTACTTC  28939
+
+Query  2170   TCATACGATTCGATCTCAAAACTATATATGCAACTAGTTGCCTGCTTATTTGTCGGGCAT  2229
+              |||||||||||  ||||||||||||| |||||| |||||||||||||||||  |||||||
+Sbjct  28940  TCATACGATTCAGTCTCAAAACTATAGATGCAATTAGTTGCCTGCTTATTTCCCGGGCAT  28999
+
+Query  2230   CTAAATGTGACTTGTTTTCGTTCGTTAATTAGTTTCTTCTTTGAGAGttttttt  2283
+               ||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  29000  ATAAATGTGACTTGTTTTCGTTCGTTAATTAGATTCTTCTTTGAGAGTTTTTTT  29053
+
+
+ Score = 414 bits (209),  Expect = 6e-112
+ Identities = 209/209 (100%), Gaps = 0/209 (0%)
+ Strand=Plus/Plus
+
+Query  1     ACGGCTAATTGTTGGGTAAGGTAGTCATAGAGCAGGCAGAATGATGGACGGGGCTGGAGC  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2406  ACGGCTAATTGTTGGGTAAGGTAGTCATAGAGCAGGCAGAATGATGGACGGGGCTGGAGC  2465
+
+Query  61    GCTACTCCGGAGTCATCAGATGGAGCCGCCGCCGCCGTTCTTAGCAATTTCGGTCACCGT  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2466  GCTACTCCGGAGTCATCAGATGGAGCCGCCGCCGCCGTTCTTAGCAATTTCGGTCACCGT  2525
+
+Query  121   GGCGACCTTGGCTGCTGGCGTATTCGCCATATATTTCTACGCACCTTCATGGCGCGTACG  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2526  GGCGACCTTGGCTGCTGGCGTATTCGCCATATATTTCTACGCACCTTCATGGCGCGTACG  2585
+
+Query  181   TAGGGTCCCCGGTCCGATGGCTTACCCGC  209
+             |||||||||||||||||||||||||||||
+Sbjct  2586  TAGGGTCCCCGGTCCGATGGCTTACCCGC  2614
+
+
+ Score = 375 bits (189),  Expect = 5e-100
+ Identities = 198/201 (99%), Gaps = 0/201 (0%)
+ Strand=Plus/Plus
+
+Query  2277   tttttttGTATGATATATAGGTTTTGAAAGAGACGATGAGATTCTACACTGTGTCCCCGC  2336
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29048  TTTTTTTGTATGATATATAGGTTTTGAAAGAGACGATGAGATTCTACACTGTGTCCCCGC  29107
+
+Query  2337   TGATTGCTAGGGAGGCATCCGAGGATGTCCAGATTGGAGGCTATGTCCTTCCTAAGGTTA  2396
+              ||||||| |||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  29108  TGATTGCAAGGGAGGCATCCGAGGATGTCCAGATTGGAGGCTATGTCCGTCCTAAGGTTA  29167
+
+Query  2397   GTGCCTTGTGCTTCCTACGTTACCAACCCGTAAACATCAGGCCCTAATTGTTTCAACTAT  2456
+              ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29168  GTGCCATGTGCTTCCTACGTTACCAACCCGTAAACATCAGGCCCTAATTGTTTCAACTAT  29227
+
+Query  2457   CATTCCTCCCATAACAAAGCA  2477
+              |||||||||||||||||||||
+Sbjct  29228  CATTCCTCCCATAACAAAGCA  29248
+
+
+ Score = 109 bits (55),  Expect = 5e-20
+ Identities = 55/55 (100%), Gaps = 0/55 (0%)
+ Strand=Plus/Plus
+
+Query  3015   CTTGTTCTTATATATGGAATAAAAGCTGATGCATGTCGTTGTTTTCGTTCCCGAA  3069
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29781  CTTGTTCTTATATATGGAATAAAAGCTGATGCATGTCGTTGTTTTCGTTCCCGAA  29835
+
+
+>EG:cle_scaffold_139861 dna:scaffold scaffold:EIv1.1:cle_scaffold_139861:1:24896:1
+REF
+Length=24896
+
+ Score = 1679 bits (847),  Expect = 0.0
+ Identities = 895/911 (98%), Gaps = 0/911 (0%)
+ Strand=Plus/Plus
+
+Query  1270  AAAAAATTAATACTCAGTACATATCTAGCTAGAGCTTGTTTTAAATCACAAGCATATCAC  1329
+             ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  8270  AAAAAATTAATACTCAGTACATATCTAGCTAGATCTTGTTTTAAATCACAAGCATATCAC  8329
+
+Query  1330  TGTCTCCGCAGGGACTCGAGATGGCAATCCATGAGAAATGTCATCATCTCCATCTACCAG  1389
+             | |||| |||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  8330  TCTCTCGGCAGGGACTCGAGATGGCAATCCATGAGAAATGTCATCATCTCCATTTACCAG  8389
+
+Query  1390  CCGTCGCACGTGGCAAGCCTCATCCCTTCCTTCCAACCGTACATTGAACGGGCGGGGCGC  1449
+             |||||||||||||||||||||||||||||||||||||||||||||||| || ||| ||||
+Sbjct  8390  CCGTCGCACGTGGCAAGCCTCATCCCTTCCTTCCAACCGTACATTGAATGGACGGAGCGC  8449
+
+Query  1450  CTCCTCCGGCATGGCGAGGAGATCACCTTCTCCGACCTCTCGTTAAAGCTCTTCAGCGAC  1509
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8450  CTCCTCCGGCATGGCGAGGAGATCACCTTCTCCGACCTCTCGTTAAAGCTCTTCAGCGAC  8509
+
+Query  1510  ACTATTGGTCAGGTCGCCTTCGGTGTGGACTTCGGCCTCACCAAAGGCACCACCTCTCCA  1569
+             |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  8510  ACTATTGGTCAGGTCGCCTTTGGTGTGGACTTCGGCCTCACCAAAGGCACCACCTCTCCA  8569
+
+Query  1570  CCACCGAAACACCATGTCGATTGTGCTGAGACTGTCGACATGACAACAGATTTCATCAAA  1629
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||
+Sbjct  8570  CCACCGAAACACCATGTCGATTGTGCTGAGACTGTCGACATGACAACGGATTTCATCGAA  8629
+
+Query  1630  AAGCACTTCTACGCCACGACGTCCCTCAAGATGGACCTCTCAGGCTCCGTGTCCATCATC  1689
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  8630  AAGCACTTCTACGCCACGACGTCCCTCAAGATGGACCTGTCAGGCTCCGTGTCCATCATC  8689
+
+Query  1690  CTTGGCATGCTCGTGCCGTTGCTACAGGAACCTGTGAGGCAGCTCCTGCTGCGTGTGCCG  1749
+             |||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||
+Sbjct  8690  CTTGGCATGCTCGTGCCGTTGCTACAGGAACCCGTGAGGCAGCTCCTGCTGCGTATGCCG  8749
+
+Query  1750  GGCTCAAAAGACCGCCGGATGGAAGAGACCAACTTGGCCATGAGTGGGCTACTGGACAAC  1809
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  8750  GGCTCAAAAGACCGCCGGATGGAAGAGACCAACTTGGCCATGAGTGGGCTACTAGACAAC  8809
+
+Query  1810  ATTGTGGCTGAGCGGGCGGCACAAGCTGACAGGGGGGAGAAGAACTTCCTGTCTGTGATG  1869
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8810  ATTGTGGCTGAGCGGGCGGCACAAGCTGACAGGGGGGAGAAGAACTTCCTGTCTGTGATG  8869
+
+Query  1870  CTTAATGCAAGCGAGAGCACAGACGCAATGAGGAAGTTGTTGACGCAAGATTACGTGAGC  1929
+             |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  8870  CTTAATGCAAGCGAGAGCACAGACGCAATGAGGAAGTTGTTGACGCAAGACTACGTGAGC  8929
+
+Query  1930  GCACTTACATACGAGCACTTACTTGCAGGGTCGGTGACCATGTCCTTCACGCTGTCAAGC  1989
+             ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  8930  GCACTTACATACGAGCACTTACTTGCAGGGTCGGTGACCATGTCCTTCACGTTGTCAAGC  8989
+
+Query  1990  CTGGTGTACCTTGTGGCGATGTACCCCGAGGTAGAGGAGAAGCTACTCAAGGAGATCGAC  2049
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8990  CTGGTGTACCTTGTGGCGATGTACCCCGAGGTAGAGGAGAAGCTACTCAAGGAGATCGAC  9049
+
+Query  2050  GCTTTTGGGCCCAAAGATGTGGTACCCAATGTTGAGGACATCCAGACCAAATTCCCTTAC  2109
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9050  GCTTTTGGGCCCAAAGATGTGGTACCCAATGTTGAGGACATCCAGACCAAATTCCCTTAC  9109
+
+Query  2110  ATGGAGCAGGTTAGTTGGATTCAGAACATGAGTCAAGTGCTCAAAACTAAATATTACTTC  2169
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9110  ATGGAGCAGGTTAGTTGGATTCAGAACATGAGTCAAGTGCTCAAAACTAAATATTACTTC  9169
+
+Query  2170  TCATACGATTC  2180
+             |||||||||||
+Sbjct  9170  TCATACGATTC  9180
+
+
+ Score = 1338 bits (675),  Expect = 0.0
+ Identities = 708/719 (98%), Gaps = 0/719 (0%)
+ Strand=Plus/Plus
+
+Query  2351   GCATCCGAGGATGTCCAGATTGGAGGCTATGTCCTTCCTAAGGTTAGTGCCTTGTGCTTC  2410
+              ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  10405  GCATCCGAGGATGTCCAGATTGGAGGCTATGTCCTTCCTAAGGTTAGTGCCATGTGCTTC  10464
+
+Query  2411   CTACGTTACCAACCCGTAAACATCAGGCCCTAATTGTTTCAACTATCATTCCTCCCATAA  2470
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10465  CTACGTTACCAACCCGTAAACATCAGGCCCTAATTGTTTCAACTATCATTCCTCCCATAA  10524
+
+Query  2471   CAAAGCAAGCCTATTTGTCGAATATTGTTGCACCAAGTTATTTGTTTAACAAAGAGTAAA  2530
+              ||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||
+Sbjct  10525  CAAAGCAAGCCTATTTGTCGAATATTGTTGCACCACGTTATTTTTTTAACAAAGAGTAAA  10584
+
+Query  2531   AACAATTGGGGTGATATTCAGGGTACTTGGGTGTGGCTAGCACCCGGCGTACTAGCAAAA  2590
+              |||||||||||| ||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  10585  AACAATTGGGGTCATATTCAGGGTACTTGGGTGTGGCTAGCACCAGGCGTACTAGCAAAA  10644
+
+Query  2591   GACCCAAAGCAGTTCCCAGACCCCGACGTGTTTTGGCCTGAGCGGTTTGACCCTGAGAGC  2650
+              ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  10645  GACCCAAAGCAGTTCCCAGACCCCGACGTGTTTCGGCCTGAGCGGTTTGACCCTGAGAGC  10704
+
+Query  2651   GAGGAATGCAAGCGAAGGCATCCCTATGCATTCATTCCCTTTGGTATTGGACCCCGGGCA  2710
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10705  GAGGAATGCAAGCGAAGGCATCCCTATGCATTCATTCCCTTTGGTATTGGACCCCGGGCA  10764
+
+Query  2711   TGCATTGGGCAGAAGTTCGCATTCCAGCAGCTCAAGCTCGTCATCCTCCACCTCTACCGC  2770
+              |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||
+Sbjct  10765  TGCATTGGGCAGAAGTTCGCGTTCCAGCAGCTCAAGCTCGTCATTCTCCACCTCTACCGC  10824
+
+Query  2771   CACCACGTCTTCAGGCACTCGCCCAACATGGAATTCCCGCTGCAGTTCCAGTATTCCATC  2830
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10825  CACCACGTCTTCAGGCACTCGCCCAACATGGAATTCCCGCTGCAGTTCCAGTATTCCATC  10884
+
+Query  2831   TTGGTCAACTTCAAGCATGGTGTCAAGCTCCAGGTCATCGAAAGGAAGACTTGATATGTG  2890
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10885  TTGGTCAACTTCAAGCATGGTGTCAAGCTCCAGGTCATCGAAAGGAAGACTTGATATGTG  10944
+
+Query  2891   TCTAGCAAGTAGCAACTCTATCTAAATATCATGGATATGTGTTCTTATaaaaaaaaTGTG  2950
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10945  TCTAGCAAGTAGCAACTCTATCTAAATATCATGGATATGTGTTCTTATAAAAAAAATGTG  11004
+
+Query  2951   AATTTATGAAATATGTACATGCTATTTTGTACAACATACATGAAGATTCTGTAATGCGTG  3010
+              |||||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||
+Sbjct  11005  AATTTATGAAATATGTACATGCTATTTTGTACAACATACATGAAGATTGTGTAATGTGTG  11064
+
+Query  3011   TAACCTTGTTCTTATATATGGAATAAAAGCTGATGCATGTCGTTGTTTTCGTTCCCGAA  3069
+              ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  11065  TAACCTTGTTCTTATATATTGAATAAAAGCTGATGCATGTCGTTGTTTTCGTTCCCGAA  11123
+
+
+ Score = 858 bits (433),  Expect = 0.0
+ Identities = 441/444 (99%), Gaps = 0/444 (0%)
+ Strand=Plus/Plus
+
+Query  113   GTCACCGTGGCGACCTTGGCTGCTGGCGTATTCGCCATATATTTCTACGCACCTTCATGG  172
+             || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7076  GTNACCGTGGCGACCTTGGCTGCTGGCGTATTCGCCATATATTTCTACGCACCTTCATGG  7135
+
+Query  173   CGCGTACGTAGGGTCCCCGGTCCGATGGCTTACCCGCTGATCGGCCACCTGCCGTTGCTC  232
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7136  CGCGTACGTAGGGTCCCCGGTCCGATGGCTTACCCGCTGATCGGCCACCTGCCGTTGCTC  7195
+
+Query  233   GCCAAGCACGGCCCGGCGGTGTTCACGGTCCTCAGAGAGAGATTCGGGCCCATCTACAGG  292
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7196  GCCAAGCACGGGCCGGCGGTGTTCACGGTCCTCAGAGAGAGATTCGGGCCCATCTACAGG  7255
+
+Query  293   TGAGTTTGCCCGTGCTAATTAATTCCACCATGCAGGCGaaaaaaaTGGTGCCTTAACATG  352
+             |||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  7256  TGAGTTTGCCCGTGCTAATTAATTCCACCATGCAGGAGAAAAAAATGGTGCCTTAACATG  7315
+
+Query  353   TGTATTTGTGTCATTTTCTCAGGTTTCACATGGGTAGACAGCCGCTAGTTATGATTGCAG  412
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7316  TGTATTTGTGTCATTTTCTCAGGTTTCACATGGGTAGACAGCCGCTAGTTATGATTGCAG  7375
+
+Query  413   ACCCCGAGCTGTGCAGAGAGGTGGGAATCCAGAAGTTCAAGAGCATCCCCAACAGAAGCG  472
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7376  ACCCCGAGCTGTGCAGAGAGGTGGGAATCCAGAAGTTCAAGAGCATCCCCAACAGAAGCG  7435
+
+Query  473   TCCCTAGTCCTATTCGCAGCTCGCCTATTCACAACAAAGGCCTCTTCTTTACGAGGTTGG  532
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7436  TCCCTAGTCCTATTCGCAGCTCGCCTATTCACAACAAAGGCCTCTTCTTTACGAGGTTGG  7495
+
+Query  533   ATGTGTGCACCTTTATTACTTTAT  556
+             ||||||||||||||||||||||||
+Sbjct  7496  ATGTGTGCACCTTTATTACTTTAT  7519
+
+
+ Score = 486 bits (245),  Expect = 2e-133
+ Identities = 260/265 (98%), Gaps = 0/265 (0%)
+ Strand=Plus/Plus
+
+Query  959   ACAAGAGTACGTTTAGAAACATCATTCAACCACGAATCTAGTATAGGAATGCAAACATTA  1018
+             ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7959  ACAAGAGTATGTTTAGAAACATCATTCAACCACGAATCTAGTATAGGAATGCAAACATTA  8018
+
+Query  1019  GTACTGCTACAGGTAACACCAAGAATAATCTATCATCTAACATGCTTTCACTATCATCTC  1078
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  8019  GTACTGCTACAGGTAACACCAAGAATAATCTATCATCTGACATGCTTTCACTATCATCTC  8078
+
+Query  1079  TTGATGACTTGAGGATTATTATGCATTTTCATTCATTGTATACGCTCTATTAATTAGATG  1138
+             |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  8079  TTGATGACTTGAGGTTTATTATGCATTTTTATTCATTGTATACGCTCTATTAATTAGATG  8138
+
+Query  1139  TAAACTGTGCCGCACCAAGAAGTGAAGCAACACAACAATACAAACTATATTGTTATTTAA  1198
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8139  TAAACTGTGCCACACCAAGAAGTGAAGCAACACAACAATACAAACTATATTGTTATTTAA  8198
+
+Query  1199  TGCAAACAACAAACTATAGAACTGG  1223
+             |||||||||||||||||||||||||
+Sbjct  8199  TGCAAACAACAAACTATAGAACTGG  8223
+
+
+ Score = 359 bits (181),  Expect = 3e-95
+ Identities = 199/205 (97%), Gaps = 0/205 (0%)
+ Strand=Plus/Plus
+
+Query  554   TATCTTCTTCCGTATATATCCTTGACTGAATCAACGGTGGGAGTTAAAACATGTACGCCT  613
+             ||||||||||||||||||||||||||||||||||||||| || |||||||||| ||||||
+Sbjct  7519  TATCTTCTTCCGTATATATCCTTGACTGAATCAACGGTGCGAATTAAAACATGGACGCCT  7578
+
+Query  614   TTAGAGATTTCATGAAGTCAAATGTGTTGAGTGCTTCCAAAGTTTCATCATGAAATGATA  673
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7579  TTAGAGATTTCATGAAGTCAAATGTGTTGAGTGCTTCCAAAGTTTCATCATGAAATGATA  7638
+
+Query  674   TCCGCGGAAATCGTTAAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGG  733
+             ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  7639  TCCGCGGAAATCGTTAAAATAATTTATGCTCCAAAAATGATATTTTCGAAAACATTTTGG  7698
+
+Query  734   AGTGCTGAttttttttttcgttttt  758
+             ||||||||||| ||| |||||||||
+Sbjct  7699  AGTGCTGATTTCTTTCTTCGTTTTT  7723
+
+
+ Score = 351 bits (177),  Expect = 7e-93
+ Identities = 180/181 (99%), Gaps = 0/181 (0%)
+ Strand=Plus/Plus
+
+Query  1     ACGGCTAATTGTTGGGTAAGGTAGTCATAGAGCAGGCAGAATGATGGACGGGGCTGGAGC  60
+             ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6897  ACGGCTAATCGTTGGGTAAGGTAGTCATAGAGCAGGCAGAATGATGGACGGGGCTGGAGC  6956
+
+Query  61    GCTACTCCGGAGTCATCAGATGGAGCCGCCGCCGCCGTTCTTAGCAATTTCGGTCACCGT  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6957  GCTACTCCGGAGTCATCAGATGGAGCCGCCGCCGCCGTTCTTAGCAATTTCGGTCACCGT  7016
+
+Query  121   GGCGACCTTGGCTGCTGGCGTATTCGCCATATATTTCTACGCACCTTCATGGCGCGTACG  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7017  GGCGACCTTGGCTGCTGGCGTATTCGCCATATATTTCTACGCACCTTCATGGCGCGTACG  7076
+
+Query  181   T  181
+             |
+Sbjct  7077  T  7077
+
+
+ Score = 260 bits (131),  Expect = 2e-65
+ Identities = 146/151 (97%), Gaps = 0/151 (0%)
+ Strand=Plus/Plus
+
+Query  825   tttttttCTTCTAATTTTACTGTTCATCACGAGCAGAAGAGACTTTCAGTAAGTATTCAT  884
+             |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7792  TTTTGTTCTTCTAATTTTACTGTTCATCACGAGCAGAAGAGACTTTCAGTAAGTATTCAT  7851
+
+Query  885   TCGGTTTATAAGTCGGGCACAAGTTTGTAGGTCTTCAATTTAACTACGTACCAAACTATG  944
+             ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  7852  TCGGTTTATAAGTCGGGCACAAGTTTGCAGGTCTTCAATTTAACTACGTACCAAACTATG  7911
+
+Query  945   CGTAATACTCCACGACAAGAGTACGTTTAGA  975
+             ||||| ||||||| ||||||||| |||||||
+Sbjct  7912  CGTAACACTCCACCACAAGAGTATGTTTAGA  7942
+
+
+ Score = 105 bits (53),  Expect = 7e-19
+ Identities = 53/53 (100%), Gaps = 0/53 (0%)
+ Strand=Plus/Plus
+
+Query  1223  GGTCATGTAGGTCGACTGTTTTAGTAGAATGTTCCATACCAATTTGTAAAAAA  1275
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8222  GGTCATGTAGGTCGACTGTTTTAGTAGAATGTTCCATACCAATTTGTAAAAAA  8274
+
+
+ Score = 79.8 bits (40),  Expect = 4e-11
+ Identities = 43/44 (98%), Gaps = 0/44 (0%)
+ Strand=Plus/Plus
+
+Query  755   tttttGCCATTCCATGATAAAATTTGCAAGCACTCAAttttttt  798
+             |||||| |||||||||||||||||||||||||||||||||||||
+Sbjct  7719  TTTTTGACATTCCATGATAAAATTTGCAAGCACTCAATTTTTTT  7762
+
+
+ Score = 75.8 bits (38),  Expect = 7e-10
+ Identities = 38/38 (100%), Gaps = 0/38 (0%)
+ Strand=Plus/Plus
+
+Query  792   tttttttCAAAGTTTGCCATGAAAAGTTTCAGAttttt  829
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  7758  TTTTTTTCAAAGTTTGCCATGAAAAGTTTCAGATTTTT  7795
+
+
+>EG:cle_scaffold_096448 dna:scaffold scaffold:EIv1.1:cle_scaffold_096448:1:42716:1
+REF
+Length=42716
+
+ Score = 101 bits (51),  Expect = 1e-17
+ Identities = 87/99 (88%), Gaps = 0/99 (0%)
+ Strand=Plus/Plus
+
+Query  2717   GGGCAGAAGTTCGCATTCCAGCAGCTCAAGCTCGTCATCCTCCACCTCTACCGCCACCAC  2776
+              |||||||||||||| ||||||||||||||||||  | || ||||||||||||||| | ||
+Sbjct  18437  GGGCAGAAGTTCGCGTTCCAGCAGCTCAAGCTCACCGTCATCCACCTCTACCGCCGCTAC  18496
+
+Query  2777   GTCTTCAGGCACTCGCCCAACATGGAATTCCCGCTGCAG  2815
+              ||||||||||||||| ||| |||||| | ||| ||||||
+Sbjct  18497  GTCTTCAGGCACTCGACCAGCATGGAGTCCCCACTGCAG  18535
+
+
+ Score = 93.7 bits (47),  Expect = 3e-15
+ Identities = 92/107 (86%), Gaps = 0/107 (0%)
+ Strand=Plus/Plus
+
+Query  1966   ACCATGTCCTTCACGCTGTCAAGCCTGGTGTACCTTGTGGCGATGTACCCCGAGGTAGAG  2025
+              |||||||||||||||||||| |||||||||||||| ||| ||  | |||| ||||| |||
+Sbjct  18023  ACCATGTCCTTCACGCTGTCGAGCCTGGTGTACCTCGTGTCGGCGCACCCGGAGGTGGAG  18082
+
+Query  2026   GAGAAGCTACTCAAGGAGATCGACGCTTTTGGGCCCAAAGATGTGGT  2072
+              | |||||| ||| ||||||||||||| || |||||||| || |||||
+Sbjct  18083  GGGAAGCTGCTCCAGGAGATCGACGCGTTCGGGCCCAAGGACGTGGT  18129
+
+
+ Score = 63.9 bits (32),  Expect = 2e-06
+ Identities = 41/44 (93%), Gaps = 0/44 (0%)
+ Strand=Plus/Plus
+
+Query  1372   ATCATCTCCATCTACCAGCCGTCGCACGTGGCAAGCCTCATCCC  1415
+              |||||||||||||||||||| |||||| |||| |||||||||||
+Sbjct  17447  ATCATCTCCATCTACCAGCCATCGCACCTGGCGAGCCTCATCCC  17490
+
+
+ Score = 58.0 bits (29),  Expect = 2e-04
+ Identities = 56/65 (86%), Gaps = 0/65 (0%)
+ Strand=Plus/Plus
+
+Query  1621   TTCATCAAAAAGCACTTCTACGCCACGACGTCCCTCAAGATGGACCTCTCAGGCTCCGTG  1680
+              |||||| | |||||| | |||||||| |||||||||||||||||||| || |||||  ||
+Sbjct  17678  TTCATCCAGAAGCACCTGTACGCCACCACGTCCCTCAAGATGGACCTGTCGGGCTCGCTG  17737
+
+Query  1681   TCCAT  1685
+              |||||
+Sbjct  17738  TCCAT  17742
+
+
+ Score = 48.1 bits (24),  Expect = 0.15
+ Identities = 42/48 (88%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  412    GACCCCGAGCTGTGCAGAGAGGTGGGAATCCAGAAGTTCAAGAGCATC  459
+              ||||| ||||||||||| ||||  || ||| |||||||||||||||||
+Sbjct  17193  GACCCGGAGCTGTGCAGGGAGGCCGGCATCAAGAAGTTCAAGAGCATC  17240
+
+
+ Score = 48.1 bits (24),  Expect = 0.15
+ Identities = 48/56 (86%), Gaps = 0/56 (0%)
+ Strand=Plus/Plus
+
+Query  1727   GGCAGCTCCTGCTGCGTGTGCCGGGCTCAAAAGACCGCCGGATGGAAGAGACCAAC  1782
+              |||||||  ||||||| ||||||||||| |  ||||| |||||||| |||||||||
+Sbjct  17784  GGCAGCTGATGCTGCGCGTGCCGGGCTCCATGGACCGGCGGATGGACGAGACCAAC  17839
+
+
+ Score = 48.1 bits (24),  Expect = 0.15
+ Identities = 39/44 (89%), Gaps = 0/44 (0%)
+ Strand=Plus/Plus
+
+Query  2836   CAACTTCAAGCATGGTGTCAAGCTCCAGGTCATCGAAAGGAAGA  2879
+              |||||||||| | |||||||||||||||||| |  |||||||||
+Sbjct  18556  CAACTTCAAGAACGGTGTCAAGCTCCAGGTCGTTCAAAGGAAGA  18599
+
+
+ Score = 42.1 bits (21),  Expect = 9.1
+ Identities = 27/29 (93%), Gaps = 0/29 (0%)
+ Strand=Plus/Plus
+
+Query  1462   GGCGAGGAGATCACCTTCTCCGACCTCTC  1490
+              |||||||||||||||||||| ||| ||||
+Sbjct  17537  GGCGAGGAGATCACCTTCTCTGACATCTC  17565
+
+
+>EG:cle_scaffold_036487 dna:scaffold scaffold:EIv1.1:cle_scaffold_036487:1:93567:1
+REF
+Length=93567
+
+ Score = 99.6 bits (50),  Expect = 4e-17
+ Identities = 149/182 (82%), Gaps = 0/182 (0%)
+ Strand=Plus/Minus
+
+Query  1891   GACGCAATGAGGAAGTTGTTGACGCAAGATTACGTGAGCGCACTTACATACGAGCACTTA  1950
+              ||||| ||||||||| | || ||||  || ||||| ||||| || || ||||||||| ||
+Sbjct  87153  GACGCCATGAGGAAGCTCTTCACGCCGGACTACGTCAGCGCGCTCACGTACGAGCACCTA  87094
+
+Query  1951   CTTGCAGGGTCGGTGACCATGTCCTTCACGCTGTCAAGCCTGGTGTACCTTGTGGCGATG  2010
+              || || || || |  |||||||||||||||||||| |||||||| ||||| ||| ||  |
+Sbjct  87093  CTCGCGGGCTCCGGCACCATGTCCTTCACGCTGTCGAGCCTGGTATACCTCGTGTCGGCG  87034
+
+Query  2011   TACCCCGAGGTAGAGGAGAAGCTACTCAAGGAGATCGACGCTTTTGGGCCCAAAGATGTG  2070
+               |||| ||||| ||||||||||| ||| ||||||||||||| || |||||||| || |||
+Sbjct  87033  CACCCGGAGGTGGAGGAGAAGCTGCTCCAGGAGATCGACGCGTTCGGGCCCAAGGACGTG  86974
+
+Query  2071   GT  2072
+              ||
+Sbjct  86973  GT  86972
+
+
+ Score = 85.7 bits (43),  Expect = 7e-13
+ Identities = 67/75 (89%), Gaps = 0/75 (0%)
+ Strand=Plus/Minus
+
+Query  2717   GGGCAGAAGTTCGCATTCCAGCAGCTCAAGCTCGTCATCCTCCACCTCTACCGCCACCAC  2776
+              |||||||||||||| ||||||||||||||||||  | || |||||||||||||||   ||
+Sbjct  86664  GGGCAGAAGTTCGCGTTCCAGCAGCTCAAGCTCACCGTCATCCACCTCTACCGCCGTTAC  86605
+
+Query  2777   GTCTTCAGGCACTCG  2791
+              |||||||||||||||
+Sbjct  86604  GTCTTCAGGCACTCG  86590
+
+
+ Score = 77.8 bits (39),  Expect = 2e-10
+ Identities = 69/79 (87%), Gaps = 0/79 (0%)
+ Strand=Plus/Minus
+
+Query  1337   GCAGGGACTCGAGATGGCAATCCATGAGAAATGTCATCATCTCCATCTACCAGCCGTCGC  1396
+              |||||| ||||| ||||||  ||||| | || || |||||||||||||||||||||||||
+Sbjct  87686  GCAGGGGCTCGACATGGCAGGCCATGCGGAACGTGATCATCTCCATCTACCAGCCGTCGC  87627
+
+Query  1397   ACGTGGCAAGCCTCATCCC  1415
+              || |||| |||||||||||
+Sbjct  87626  ACCTGGCGAGCCTCATCCC  87608
+
+
+ Score = 69.9 bits (35),  Expect = 4e-08
+ Identities = 68/79 (86%), Gaps = 0/79 (0%)
+ Strand=Plus/Minus
+
+Query  2598   AGCAGTTCCCAGACCCCGACGTGTTTTGGCCTGAGCGGTTTGACCCTGAGAGCGAGGAAT  2657
+              |||||||||| || ||||| | |||  |||| |||||||| ||||| ||||||||||| |
+Sbjct  86783  AGCAGTTCCCGGAGCCCGAAGCGTTCCGGCCGGAGCGGTTCGACCCGGAGAGCGAGGAGT  86724
+
+Query  2658   GCAAGCGAAGGCATCCCTA  2676
+              ||||||| |||||||||||
+Sbjct  86723  GCAAGCGGAGGCATCCCTA  86705
+
+
+ Score = 65.9 bits (33),  Expect = 6e-07
+ Identities = 57/65 (88%), Gaps = 0/65 (0%)
+ Strand=Plus/Minus
+
+Query  1621   TTCATCAAAAAGCACTTCTACGCCACGACGTCCCTCAAGATGGACCTCTCAGGCTCCGTG  1680
+              |||||| | |||||| | |||||||| ||||||||||||||||||||||| |||||  ||
+Sbjct  87423  TTCATCCAGAAGCACCTGTACGCCACCACGTCCCTCAAGATGGACCTCTCGGGCTCGCTG  87364
+
+Query  1681   TCCAT  1685
+              |||||
+Sbjct  87363  TCCAT  87359
+
+
+ Score = 63.9 bits (32),  Expect = 2e-06
+ Identities = 41/44 (93%), Gaps = 0/44 (0%)
+ Strand=Plus/Minus
+
+Query  2836   CAACTTCAAGCATGGTGTCAAGCTCCAGGTCATCGAAAGGAAGA  2879
+              |||||||||| |||||||||||||||||||| || |||||||||
+Sbjct  86545  CAACTTCAAGAATGGTGTCAAGCTCCAGGTCGTCCAAAGGAAGA  86502
+
+
+ Score = 56.0 bits (28),  Expect = 6e-04
+ Identities = 73/88 (83%), Gaps = 0/88 (0%)
+ Strand=Plus/Minus
+
+Query  372    CAGGTTTCACATGGGTAGACAGCCGCTAGTTATGATTGCAGACCCCGAGCTGTGCAGAGA  431
+              ||||||| ||||||| || |||||||| ||  || | || ||||| ||||||||||| ||
+Sbjct  88844  CAGGTTTTACATGGGCAGGCAGCCGCTGGTGGTGGTCGCCGACCCGGAGCTGTGCAGGGA  88785
+
+Query  432    GGTGGGAATCCAGAAGTTCAAGAGCATC  459
+              ||  || ||| |||||||||||||||||
+Sbjct  88784  GGCCGGCATCAAGAAGTTCAAGAGCATC  88757
+
+
+ Score = 50.1 bits (25),  Expect = 0.037
+ Identities = 28/29 (97%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  1462   GGCGAGGAGATCACCTTCTCCGACCTCTC  1490
+              |||||||||||||||||||||||| ||||
+Sbjct  87561  GGCGAGGAGATCACCTTCTCCGACATCTC  87533
+
+
+ Score = 48.1 bits (24),  Expect = 0.15
+ Identities = 48/56 (86%), Gaps = 0/56 (0%)
+ Strand=Plus/Minus
+
+Query  1727   GGCAGCTCCTGCTGCGTGTGCCGGGCTCAAAAGACCGCCGGATGGAAGAGACCAAC  1782
+              |||||||  ||||||| ||||||||||| |  ||||| |||||||| |||||||||
+Sbjct  87317  GGCAGCTGATGCTGCGCGTGCCGGGCTCCATGGACCGACGGATGGACGAGACCAAC  87262
+
+
+>EG:cle_scaffold_124229 dna:scaffold scaffold:EIv1.1:cle_scaffold_124229:1:30405:1
+REF
+Length=30405
+
+ Score = 91.7 bits (46),  Expect = 1e-14
+ Identities = 52/54 (96%), Gaps = 0/54 (0%)
+ Strand=Plus/Minus
+
+Query  698   TATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+             |||||||||||| || ||||||||||||||||||||||||||||||||||||||
+Sbjct  8440  TATGCTCCAAAAGTGGTATTTTCGAAAGCATTTTGGAGTGCTGATTTTTTTTTT  8387
+
+
+ Score = 42.1 bits (21),  Expect = 9.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  838   ATTTTACTGTTCATCACGAGC  858
+             |||||||||||||||||||||
+Sbjct  8267  ATTTTACTGTTCATCACGAGC  8247
+
+
+>EG:cle_scaffold_067339 dna:scaffold scaffold:EIv1.1:cle_scaffold_067339:1:60795:1
+REF
+Length=60795
+
+ Score = 87.7 bits (44),  Expect = 2e-13
+ Identities = 50/52 (96%), Gaps = 0/52 (0%)
+ Strand=Plus/Plus
+
+Query  700    TGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              ||||||||||||| ||||||||||||||||||||||||||||||||| ||||
+Sbjct  50091  TGCTCCAAAAATGTTATTTTCGAAAGCATTTTGGAGTGCTGATTTTTCTTTT  50142
+
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 46/49 (94%), Gaps = 0/49 (0%)
+ Strand=Plus/Plus
+
+Query  703    TCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              |||||||||| |||||||||||||||||||||||| |||||||| ||||
+Sbjct  58529  TCCAAAAATGTTATTTTCGAAAGCATTTTGGAGTGTTGATTTTTCTTTT  58577
+
+
+>EG:cle_scaffold_118297 dna:scaffold scaffold:EIv1.1:cle_scaffold_118297:1:32726:1
+REF
+Length=32726
+
+ Score = 83.8 bits (42),  Expect = 3e-12
+ Identities = 54/58 (93%), Gaps = 0/58 (0%)
+ Strand=Plus/Plus
+
+Query  694    AATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              |||| ||||||||||| || |||||||||||||||||||||||||||||||| |||||
+Sbjct  27705  AATTGATGCTCCAAAAGTGTTATTTTCGAAAGCATTTTGGAGTGCTGATTTTGTTTTT  27762
+
+
+>EG:cle_scaffold_263411 dna:scaffold scaffold:EIv1.1:cle_scaffold_263411:1:5183:1
+REF
+Length=5183
+
+ Score = 81.8 bits (41),  Expect = 1e-11
+ Identities = 44/45 (98%), Gaps = 0/45 (0%)
+ Strand=Plus/Minus
+
+Query  704  CCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+            ||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  841  CCAAAAATGTTATTTTCGAAAGCATTTTGGAGTGCTGATTTTTTT  797
+
+
+>EG:cle_scaffold_077235 dna:scaffold scaffold:EIv1.1:cle_scaffold_077235:1:53757:1
+REF
+Length=53757
+
+ Score = 81.8 bits (41),  Expect = 1e-11
+ Identities = 104/125 (83%), Gaps = 0/125 (0%)
+ Strand=Plus/Minus
+
+Query  2625   GGCCTGAGCGGTTTGACCCTGAGAGCGAGGAATGCAAGCGAAGGCATCCCTATGCATTCA  2684
+              |||| ||||| || ||||| ||||||||||| ||||| || ||||| ||||| |||| ||
+Sbjct  48964  GGCCGGAGCGCTTCGACCCGGAGAGCGAGGAGTGCAAACGCAGGCACCCCTACGCATACA  48905
+
+Query  2685   TTCCCTTTGGTATTGGACCCCGGGCATGCATTGGGCAGAAGTTCGCATTCCAGCAGCTCA  2744
+              | ||||| || || || || ||||| |||   |||||||||||||| |||||||||||||
+Sbjct  48904  TCCCCTTCGGCATCGGCCCGCGGGCGTGCCCGGGGCAGAAGTTCGCGTTCCAGCAGCTCA  48845
+
+Query  2745   AGCTC  2749
+              |||||
+Sbjct  48844  AGCTC  48840
+
+
+ Score = 67.9 bits (34),  Expect = 2e-07
+ Identities = 64/74 (86%), Gaps = 0/74 (0%)
+ Strand=Plus/Minus
+
+Query  1372   ATCATCTCCATCTACCAGCCGTCGCACGTGGCAAGCCTCATCCCTTCCTTCCAACCGTAC  1431
+              ||||||||||||||||||||||||||| |||| |||||||| ||  || |||| || |||
+Sbjct  49865  ATCATCTCCATCTACCAGCCGTCGCACCTGGCGAGCCTCATTCCGGCCATCCAGCCCTAC  49806
+
+Query  1432   ATTGAACGGGCGGG  1445
+              || || ||||||||
+Sbjct  49805  ATCGAGCGGGCGGG  49792
+
+
+ Score = 61.9 bits (31),  Expect = 1e-05
+ Identities = 52/59 (88%), Gaps = 0/59 (0%)
+ Strand=Plus/Minus
+
+Query  2757   TCCACCTCTACCGCCACCACGTCTTCAGGCACTCGCCCAACATGGAATTCCCGCTGCAG  2815
+              ||||||||||||||| | ||||||||||||||||||||   ||||| | ||||||||||
+Sbjct  48832  TCCACCTCTACCGCCGCTACGTCTTCAGGCACTCGCCCGGAATGGAGTCCCCGCTGCAG  48774
+
+
+ Score = 58.0 bits (29),  Expect = 2e-04
+ Identities = 56/65 (86%), Gaps = 0/65 (0%)
+ Strand=Plus/Minus
+
+Query  1621   TTCATCAAAAAGCACTTCTACGCCACGACGTCCCTCAAGATGGACCTCTCAGGCTCCGTG  1680
+              |||||| | |||||| | |||||||| |||||||||||||||||||| || |||||  ||
+Sbjct  49631  TTCATCCAGAAGCACCTGTACGCCACCACGTCCCTCAAGATGGACCTGTCCGGCTCGCTG  49572
+
+Query  1681   TCCAT  1685
+              |||||
+Sbjct  49571  TCCAT  49567
+
+
+ Score = 58.0 bits (29),  Expect = 2e-04
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  1462   GGCGAGGAGATCACCTTCTCCGACCTCTC  1490
+              |||||||||||||||||||||||||||||
+Sbjct  49775  GGCGAGGAGATCACCTTCTCCGACCTCTC  49747
+
+
+ Score = 56.0 bits (28),  Expect = 6e-04
+ Identities = 49/56 (88%), Gaps = 0/56 (0%)
+ Strand=Plus/Minus
+
+Query  2017   GAGGTAGAGGAGAAGCTACTCAAGGAGATCGACGCTTTTGGGCCCAAAGATGTGGT  2072
+              ||||| ||||||||||| ||| ||||||||||||| || |||||||| || |||||
+Sbjct  49235  GAGGTGGAGGAGAAGCTGCTCCAGGAGATCGACGCGTTCGGGCCCAAGGACGTGGT  49180
+
+
+ Score = 54.0 bits (27),  Expect = 0.002
+ Identities = 33/35 (94%), Gaps = 0/35 (0%)
+ Strand=Plus/Minus
+
+Query  1966   ACCATGTCCTTCACGCTGTCAAGCCTGGTGTACCT  2000
+              |||||||||||||||||||| |||||||| |||||
+Sbjct  49286  ACCATGTCCTTCACGCTGTCGAGCCTGGTCTACCT  49252
+
+
+ Score = 52.0 bits (26),  Expect = 0.009
+ Identities = 38/42 (90%), Gaps = 0/42 (0%)
+ Strand=Plus/Minus
+
+Query  2836   CAACTTCAAGCATGGTGTCAAGCTCCAGGTCATCGAAAGGAA  2877
+              |||||||||| | |||||||||||||||||| || |||||||
+Sbjct  48753  CAACTTCAAGAACGGTGTCAAGCTCCAGGTCGTCCAAAGGAA  48712
+
+
+ Score = 50.1 bits (25),  Expect = 0.037
+ Identities = 79/97 (81%), Gaps = 0/97 (0%)
+ Strand=Plus/Minus
+
+Query  380    ACATGGGTAGACAGCCGCTAGTTATGATTGCAGACCCCGAGCTGTGCAGAGAGGTGGGAA  439
+              ||||||| || |||||||| ||  |||| || ||||| ||||||||||| ||||  || |
+Sbjct  50325  ACATGGGCAGGCAGCCGCTGGTGGTGATCGCCGACCCGGAGCTGTGCAGGGAGGCCGGCA  50266
+
+Query  440    TCCAGAAGTTCAAGAGCATCCCCAACAGAAGCGTCCC  476
+              || |||||||||||| ||||  | |||| ||||||||
+Sbjct  50265  TCAAGAAGTTCAAGAACATCGTCGACAGGAGCGTCCC  50229
+
+
+ Score = 46.1 bits (23),  Expect = 0.58
+ Identities = 41/47 (87%), Gaps = 0/47 (0%)
+ Strand=Plus/Minus
+
+Query  1736   TGCTGCGTGTGCCGGGCTCAAAAGACCGCCGGATGGAAGAGACCAAC  1782
+              ||||||| ||||||||||| |  ||||| |||||||| |||||||||
+Sbjct  49516  TGCTGCGCGTGCCGGGCTCCATGGACCGGCGGATGGACGAGACCAAC  49470
+
+
+>EG:cle_scaffold_050893 dna:scaffold scaffold:EIv1.1:cle_scaffold_050893:1:75664:1
+REF
+Length=75664
+
+ Score = 81.8 bits (41),  Expect = 1e-11
+ Identities = 47/49 (96%), Gaps = 0/49 (0%)
+ Strand=Plus/Plus
+
+Query  703    TCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              |||||||||| |||||||||||||||||||||||||||||||| |||||
+Sbjct  26121  TCCAAAAATGTTATTTTCGAAAGCATTTTGGAGTGCTGATTTTGTTTTT  26169
+
+
+>EG:cle_scaffold_044992 dna:scaffold scaffold:EIv1.1:cle_scaffold_044992:1:82211:1
+REF
+Length=82211
+
+ Score = 81.8 bits (41),  Expect = 1e-11
+ Identities = 56/61 (92%), Gaps = 0/61 (0%)
+ Strand=Plus/Plus
+
+Query  689   AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+             |||| |||| ||||||||||| || ||||||||||||||||||||||| |||||||||||
+Sbjct  8339  AAAACAATTGATGCTCCAAAAGTGTTATTTTCGAAAGCATTTTGGAGTTCTGATTTTTTT  8398
+
+Query  749   t  749
+             |
+Sbjct  8399  T  8399
+
+
+>EG:cle_scaffold_027577 dna:scaffold scaffold:EIv1.1:cle_scaffold_027577:1:109009:1
+REF
+Length=109009
+
+ Score = 81.8 bits (41),  Expect = 1e-11
+ Identities = 47/49 (96%), Gaps = 0/49 (0%)
+ Strand=Plus/Plus
+
+Query  702    CTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttttt  750
+              |||||||||||||||||| ||||||||||||| ||||||||||||||||
+Sbjct  24738  CTCCAAAAATGATATTTTTGAAAGCATTTTGGGGTGCTGATTTTTTTTT  24786
+
+
+>EG:cle_scaffold_015207 dna:scaffold scaffold:EIv1.1:cle_scaffold_015207:1:143681:1
+REF
+Length=143681
+
+ Score = 81.8 bits (41),  Expect = 1e-11
+ Identities = 50/53 (94%), Gaps = 0/53 (0%)
+ Strand=Plus/Plus
+
+Query  699   ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+             |||||||||||||| ||||||| ||||||||||||||||||||||||| ||||
+Sbjct  4988  ATGCTCCAAAAATGTTATTTTCAAAAGCATTTTGGAGTGCTGATTTTTGTTTT  5040
+
+
+>EG:cle_scaffold_101829 dna:scaffold scaffold:EIv1.1:cle_scaffold_101829:1:39987:1
+REF
+Length=39987
+
+ Score = 79.8 bits (40),  Expect = 4e-11
+ Identities = 49/52 (94%), Gaps = 0/52 (0%)
+ Strand=Plus/Minus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttttt  750
+              |||||||||||||| ||||||||||||||||||| |||||||||||| ||||
+Sbjct  26706  ATGCTCCAAAAATGTTATTTTCGAAAGCATTTTGAAGTGCTGATTTTATTTT  26655
+
+
+>EG:cle_scaffold_008723 dna:scaffold scaffold:EIv1.1:cle_scaffold_008723:1:178350:1
+REF
+Length=178350
+
+ Score = 79.8 bits (40),  Expect = 4e-11
+ Identities = 52/56 (93%), Gaps = 0/56 (0%)
+ Strand=Plus/Minus
+
+Query  694    AATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+              |||| ||||||||||| || ||||||||||| ||||||||||||||||||||||||
+Sbjct  29599  AATTGATGCTCCAAAAGTGTTATTTTCGAAAACATTTTGGAGTGCTGATTTTTTTT  29544
+
+
+>EG:cle_scaffold_068448 dna:scaffold scaffold:EIv1.1:cle_scaffold_068448:1:59966:1
+REF
+Length=59966
+
+ Score = 79.8 bits (40),  Expect = 4e-11
+ Identities = 43/44 (98%), Gaps = 0/44 (0%)
+ Strand=Plus/Plus
+
+Query  707    AAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttttt  750
+              |||||| |||||||||||||||||||||||||||||||||||||
+Sbjct  15375  AAAATGTTATTTTCGAAAGCATTTTGGAGTGCTGATTTTTTTTT  15418
+
+
+>EG:cle_scaffold_054020 dna:scaffold scaffold:EIv1.1:cle_scaffold_054020:1:72394:1
+REF
+Length=72394
+
+ Score = 77.8 bits (39),  Expect = 2e-10
+ Identities = 48/51 (94%), Gaps = 0/51 (0%)
+ Strand=Plus/Plus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+              ||||||||||| || ||||||||||||||||||||||||| ||||||||||
+Sbjct  32154  ATGCTCCAAAAGTGCTATTTTCGAAAGCATTTTGGAGTGCCGATTTTTTTT  32204
+
+
+>EG:cle_scaffold_107730 dna:scaffold scaffold:EIv1.1:cle_scaffold_107730:1:37244:1
+REF
+Length=37244
+
+ Score = 75.8 bits (38),  Expect = 7e-10
+ Identities = 56/62 (90%), Gaps = 0/62 (0%)
+ Strand=Plus/Minus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              |||| |||| || |||||||| || ||||||| |||||||||||||||||||||||||||
+Sbjct  24576  AAAAAAATTGATACTCCAAAAGTGTTATTTTCAAAAGCATTTTGGAGTGCTGATTTTTTT  24517
+
+Query  749    tt  750
+              ||
+Sbjct  24516  TT  24515
+
+
+>EG:cle_scaffold_038478 dna:scaffold scaffold:EIv1.1:cle_scaffold_038478:1:90675:1
+REF
+Length=90675
+
+ Score = 75.8 bits (38),  Expect = 7e-10
+ Identities = 47/50 (94%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  702    CTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              ||||||||||| |||||| ||||||||||||||||||||||||| |||||
+Sbjct  52358  CTCCAAAAATGTTATTTTTGAAAGCATTTTGGAGTGCTGATTTTGTTTTT  52309
+
+
+>EG:cle_scaffold_090485 dna:scaffold scaffold:EIv1.1:cle_scaffold_090485:1:45935:1
+REF
+Length=45935
+
+ Score = 75.8 bits (38),  Expect = 7e-10
+ Identities = 53/58 (91%), Gaps = 0/58 (0%)
+ Strand=Plus/Plus
+
+Query  694    AATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              |||| ||||||||||| || |||||||||||||||||||||||| ||||||| |||||
+Sbjct  19676  AATTGATGCTCCAAAAGTGTTATTTTCGAAAGCATTTTGGAGTGTTGATTTTGTTTTT  19733
+
+
+ Score = 61.9 bits (31),  Expect = 1e-05
+ Identities = 37/39 (95%), Gaps = 0/39 (0%)
+ Strand=Plus/Plus
+
+Query  826    ttttttCTTCTAATTTTACTGTTCATCACGAGCAGAAGA  864
+              |||||| |||||||||||||||||||| |||||||||||
+Sbjct  19835  TTTTTTTTTCTAATTTTACTGTTCATCCCGAGCAGAAGA  19873
+
+
+>EG:cle_scaffold_004288 dna:scaffold scaffold:EIv1.1:cle_scaffold_004288:1:223888:1
+REF
+Length=223888
+
+ Score = 75.8 bits (38),  Expect = 7e-10
+ Identities = 56/62 (90%), Gaps = 0/62 (0%)
+ Strand=Plus/Plus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              |||| |||| || ||||||||||| |||||| |||||||||||||||| |||||||||||
+Sbjct  71864  AAAAAAATTGATACTCCAAAAATGTTATTTTTGAAAGCATTTTGGAGTACTGATTTTTTT  71923
+
+Query  749    tt  750
+              ||
+Sbjct  71924  TT  71925
+
+
+>EG:cle_scaffold_147782 dna:scaffold scaffold:EIv1.1:cle_scaffold_147782:1:22384:1
+REF
+Length=22384
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 40/41 (98%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  707    AAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttt  747
+              |||||| ||||||||||||||||||||||||||||||||||
+Sbjct  11250  AAAATGTTATTTTCGAAAGCATTTTGGAGTGCTGATTTTTT  11210
+
+
+>EG:cle_scaffold_029223 dna:scaffold scaffold:EIv1.1:cle_scaffold_029223:1:105893:1
+REF
+Length=105893
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 49/53 (92%), Gaps = 0/53 (0%)
+ Strand=Plus/Minus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              ||||||||||||||  |||||| |||||||||||||||||||||||| |||||
+Sbjct  93477  ATGCTCCAAAAATGTCATTTTCTAAAGCATTTTGGAGTGCTGATTTTGTTTTT  93425
+
+
+>EG:cle_scaffold_009801 dna:scaffold scaffold:EIv1.1:cle_scaffold_009801:1:171283:1
+REF
+Length=171283
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 46/49 (94%), Gaps = 0/49 (0%)
+ Strand=Plus/Minus
+
+Query  699     ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttt  747
+               ||||||||| |||| |||||| |||||||||||||||||||||||||||
+Sbjct  158598  ATGCTCCAACAATGCTATTTTTGAAAGCATTTTGGAGTGCTGATTTTTT  158550
+
+
+>EG:cle_scaffold_277040 dna:scaffold scaffold:EIv1.1:cle_scaffold_277040:1:4821:1
+REF
+Length=4821
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 43/45 (96%), Gaps = 0/45 (0%)
+ Strand=Plus/Plus
+
+Query  704  CCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+            ||||||||| ||||||||||||||||||||||||||| |||||||
+Sbjct  650  CCAAAAATGTTATTTTCGAAAGCATTTTGGAGTGCTGGTTTTTTT  694
+
+
+>EG:cle_scaffold_148440 dna:scaffold scaffold:EIv1.1:cle_scaffold_148440:1:22177:1
+REF
+Length=22177
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 49/53 (92%), Gaps = 0/53 (0%)
+ Strand=Plus/Plus
+
+Query  699   ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+             ||||| |||||||| ||||||||||||||||| ||||||||||||||| ||||
+Sbjct  7993  ATGCTTCAAAAATGTTATTTTCGAAAGCATTTCGGAGTGCTGATTTTTGTTTT  8045
+
+
+ Score = 44.1 bits (22),  Expect = 2.3
+ Identities = 34/38 (89%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  632   CAAATGTGTTGAGTGCTTCCAAAGTTTCATCATGAAAT  669
+             ||||||| || ||||||| |||| ||||||||||||||
+Sbjct  8110  CAAATGTTTTCAGTGCTTGCAAAATTTCATCATGAAAT  8073
+
+
+>EG:cle_scaffold_049113 dna:scaffold scaffold:EIv1.1:cle_scaffold_049113:1:77553:1
+REF
+Length=77553
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 52/57 (91%), Gaps = 0/57 (0%)
+ Strand=Plus/Plus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttt  745
+              |||| ||| ||||||||||||||| || |||||||| ||||||||||||||||||||
+Sbjct  14980  AAAAAAATCTATGCTCCAAAAATGCTAGTTTCGAAAACATTTTGGAGTGCTGATTTT  15036
+
+
+>EG:cle_scaffold_045006 dna:scaffold scaffold:EIv1.1:cle_scaffold_045006:1:82187:1
+REF
+Length=82187
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 49/53 (92%), Gaps = 0/53 (0%)
+ Strand=Plus/Plus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              ||||||||||| || |||||||||||||||||| |||||||||||| ||||||
+Sbjct  62714  ATGCTCCAAAAGTGCTATTTTCGAAAGCATTTTAGAGTGCTGATTTATTTTTT  62766
+
+
+ Score = 42.1 bits (21),  Expect = 9.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  651    CAAAGTTTCATCATGAAATGA  671
+              |||||||||||||||||||||
+Sbjct  62806  CAAAGTTTCATCATGAAATGA  62786
+
+
+>EG:cle_scaffold_042263 dna:scaffold scaffold:EIv1.1:cle_scaffold_042263:1:85556:1
+REF
+Length=85556
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 49/53 (92%), Gaps = 0/53 (0%)
+ Strand=Plus/Plus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+              |||||| |||||||||||| ||||||||||||||||||| ||||||| |||||
+Sbjct  31177  ATGCTCAAAAAATGATATTCTCGAAAGCATTTTGGAGTGTTGATTTTGTTTTT  31229
+
+
+>EG:cle_scaffold_018177 dna:scaffold scaffold:EIv1.1:cle_scaffold_018177:1:133011:1
+REF
+Length=133011
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 49/53 (92%), Gaps = 0/53 (0%)
+ Strand=Plus/Plus
+
+Query  699   ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+             |||||||||||||| || ||| |||| ||||||||||||||||||||||||||
+Sbjct  3657  ATGCTCCAAAAATGCTAGTTTTGAAAACATTTTGGAGTGCTGATTTTTTTTTT  3709
+
+
+>EG:cle_scaffold_015645 dna:scaffold scaffold:EIv1.1:cle_scaffold_015645:1:141954:1
+REF
+Length=141954
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 55/61 (90%), Gaps = 0/61 (0%)
+ Strand=Plus/Plus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              |||| |||| |||||||||||| | |||||| |||||||||||||||| |||||||||||
+Sbjct  20124  AAAAAAATTGATGCTCCAAAAAAGCTATTTTTGAAAGCATTTTGGAGTACTGATTTTTTT  20183
+
+Query  749    t  749
+              |
+Sbjct  20184  T  20184
+
+
+>EG:cle_scaffold_015034 dna:scaffold scaffold:EIv1.1:cle_scaffold_015034:1:144375:1
+REF
+Length=144375
+
+ Score = 73.8 bits (37),  Expect = 3e-09
+ Identities = 43/45 (96%), Gaps = 0/45 (0%)
+ Strand=Plus/Plus
+
+Query  703    TCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttt  747
+              |||||||||| ||||||| ||||||||||||||||||||||||||
+Sbjct  96919  TCCAAAAATGTTATTTTCAAAAGCATTTTGGAGTGCTGATTTTTT  96963
+
+
+>EG:cle_scaffold_085887 dna:scaffold scaffold:EIv1.1:cle_scaffold_085887:1:48505:1
+REF
+Length=48505
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 42/44 (95%), Gaps = 0/44 (0%)
+ Strand=Plus/Minus
+
+Query  699   ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAt  742
+             ||||||||||| |||||||||||||||||||| |||||||||||
+Sbjct  8562  ATGCTCCAAAACTGATATTTTCGAAAGCATTTAGGAGTGCTGAT  8519
+
+
+>EG:cle_scaffold_073466 dna:scaffold scaffold:EIv1.1:cle_scaffold_073466:1:56358:1
+REF
+Length=56358
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 54/60 (90%), Gaps = 0/60 (0%)
+ Strand=Plus/Minus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              |||| |||| ||||||||||| || ||||||| ||||||||||||||||| |||||||||
+Sbjct  22574  AAAAAAATTGATGCTCCAAAAGTGTTATTTTCAAAAGCATTTTGGAGTGCAGATTTTTTT  22515
+
+
+>EG:cle_scaffold_042451 dna:scaffold scaffold:EIv1.1:cle_scaffold_042451:1:85296:1
+REF
+Length=85296
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 45/48 (94%), Gaps = 0/48 (0%)
+ Strand=Plus/Minus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttt  746
+              |||||||||||||| ||||||||||||||| |||||||| ||||||||
+Sbjct  52581  ATGCTCCAAAAATGTTATTTTCGAAAGCATATTGGAGTGTTGATTTTT  52534
+
+
+>EG:cle_scaffold_011620 dna:scaffold scaffold:EIv1.1:cle_scaffold_011620:1:160345:1
+REF
+Length=160345
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 54/60 (90%), Gaps = 0/60 (0%)
+ Strand=Plus/Minus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              |||| |||| ||||||||||| || ||||||||||||||||||||||| |||||| ||||
+Sbjct  56545  AAAAAAATTGATGCTCCAAAAGTGTTATTTTCGAAAGCATTTTGGAGTTCTGATTGTTTT  56486
+
+
+>EG:cle_scaffold_001948 dna:scaffold scaffold:EIv1.1:cle_scaffold_001948:1:277300:1
+REF
+Length=277300
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 51/56 (91%), Gaps = 0/56 (0%)
+ Strand=Plus/Minus
+
+Query  694     AATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+               |||| |||||||| ||||| |||||| ||||||||||| |||||||||||||||||
+Sbjct  107124  AATTGATGCTCCAGAAATGCTATTTTTGAAAGCATTTTTGAGTGCTGATTTTTTTT  107069
+
+
+>EG:cle_scaffold_781546 dna:scaffold scaffold:EIv1.1:cle_scaffold_781546:1:1647:1
+REF
+Length=1647
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 42/44 (95%), Gaps = 0/44 (0%)
+ Strand=Plus/Plus
+
+Query  705  CAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+            |||||||| ||||||||||||||||||||||||||| |||||||
+Sbjct  914  CAAAAATGTTATTTTCGAAAGCATTTTGGAGTGCTGGTTTTTTT  957
+
+
+>EG:cle_scaffold_080102 dna:scaffold scaffold:EIv1.1:cle_scaffold_080102:1:51969:1
+REF
+Length=51969
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  714    TATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+              ||||||||||||||||||||||||||||||||||||
+Sbjct  44333  TATTTTCGAAAGCATTTTGGAGTGCTGATTTTTTTT  44368
+
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  714    TATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+              ||||||||||||||||||||||||||||||||||||
+Sbjct  48186  TATTTTCGAAAGCATTTTGGAGTGCTGATTTTTTTT  48221
+
+
+ Score = 52.0 bits (26),  Expect = 0.009
+ Identities = 32/34 (94%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  825    tttttttCTTCTAATTTTACTGTTCATCACGAGC  858
+              |||||||||||| ||||||||||||||| |||||
+Sbjct  48324  TTTTTTTCTTCTGATTTTACTGTTCATCCCGAGC  48357
+
+
+ Score = 44.1 bits (22),  Expect = 2.3
+ Identities = 31/34 (91%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  825    tttttttCTTCTAATTTTACTGTTCATCACGAGC  858
+              |||| ||||||| ||||||||||||||| |||||
+Sbjct  44472  TTTTCTTCTTCTGATTTTACTGTTCATCCCGAGC  44505
+
+
+>EG:cle_scaffold_079002 dna:scaffold scaffold:EIv1.1:cle_scaffold_079002:1:52629:1
+REF
+Length=52629
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 51/56 (91%), Gaps = 0/56 (0%)
+ Strand=Plus/Plus
+
+Query  694    AATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+              |||| ||||||||||| || ||||||| |||||||||| |||||||||||||||||
+Sbjct  36453  AATTGATGCTCCAAAAGTGTTATTTTCAAAAGCATTTTTGAGTGCTGATTTTTTTT  36508
+
+
+>EG:cle_scaffold_060241 dna:scaffold scaffold:EIv1.1:cle_scaffold_060241:1:66651:1
+REF
+Length=66651
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 48/52 (92%), Gaps = 0/52 (0%)
+ Strand=Plus/Plus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttttt  750
+              |||||||||||||| ||||||| |||| ||||||||||||||||| ||||||
+Sbjct  38148  ATGCTCCAAAAATGTTATTTTCAAAAGTATTTTGGAGTGCTGATTCTTTTTT  38199
+
+
+>EG:cle_scaffold_059523 dna:scaffold scaffold:EIv1.1:cle_scaffold_059523:1:67250:1
+REF
+Length=67250
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 54/60 (90%), Gaps = 0/60 (0%)
+ Strand=Plus/Plus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              |||| |||| || ||||||||||| |||||| |||||||||||||||| |||||||||||
+Sbjct  59066  AAAAAAATTGATACTCCAAAAATGCTATTTTTGAAAGCATTTTGGAGTACTGATTTTTTT  59125
+
+
+>EG:cle_scaffold_053549 dna:scaffold scaffold:EIv1.1:cle_scaffold_053549:1:72879:1
+REF
+Length=72879
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 45/48 (94%), Gaps = 0/48 (0%)
+ Strand=Plus/Plus
+
+Query  703    TCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttttt  750
+              |||||||| | |||||||||||||||||||||||||||||||| ||||
+Sbjct  19340  TCCAAAAAAGCTATTTTCGAAAGCATTTTGGAGTGCTGATTTTATTTT  19387
+
+
+>EG:cle_scaffold_020888 dna:scaffold scaffold:EIv1.1:cle_scaffold_020888:1:124941:1
+REF
+Length=124941
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 54/60 (90%), Gaps = 0/60 (0%)
+ Strand=Plus/Plus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              |||| |||| ||||||||||| || ||||||||||||||||||||||| |||||| ||||
+Sbjct  67717  AAAAAAATTGATGCTCCAAAAGTGTTATTTTCGAAAGCATTTTGGAGTTCTGATTGTTTT  67776
+
+
+>EG:cle_scaffold_004646 dna:scaffold scaffold:EIv1.1:cle_scaffold_004646:1:218562:1
+REF
+Length=218562
+
+ Score = 71.9 bits (36),  Expect = 1e-08
+ Identities = 48/52 (92%), Gaps = 0/52 (0%)
+ Strand=Plus/Plus
+
+Query  700     TGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttttt  751
+               ||||||||||||| ||||||  ||||||||||||||||||||||||| ||||
+Sbjct  211313  TGCTCCAAAAATGTTATTTTTAAAAGCATTTTGGAGTGCTGATTTTTCTTTT  211364
+
+
+>EG:cle_scaffold_160016 dna:scaffold scaffold:EIv1.1:cle_scaffold_160016:1:18910:1
+REF
+Length=18910
+
+ Score = 69.9 bits (35),  Expect = 4e-08
+ Identities = 47/51 (92%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  699   ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+             |||||||||||||| |||||| ||||||||||||||||| ||||| |||||
+Sbjct  5060  ATGCTCCAAAAATGTTATTTTTGAAAGCATTTTGGAGTGTTGATTATTTTT  5010
+
+
+>EG:cle_scaffold_124087 dna:scaffold scaffold:EIv1.1:cle_scaffold_124087:1:30472:1
+REF
+Length=30472
+
+ Score = 69.9 bits (35),  Expect = 4e-08
+ Identities = 44/47 (94%), Gaps = 0/47 (0%)
+ Strand=Plus/Minus
+
+Query  699   ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttt  745
+             ||||||||||| || ||||||||||||| ||||||||||||||||||
+Sbjct  6223  ATGCTCCAAAAGTGGTATTTTCGAAAGCTTTTTGGAGTGCTGATTTT  6177
+
+
+ Score = 42.1 bits (21),  Expect = 9.1
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  838   ATTTTACTGTTCATCACGAGC  858
+             |||||||||||||||||||||
+Sbjct  6056  ATTTTACTGTTCATCACGAGC  6036
+
+
+>EG:cle_scaffold_034612 dna:scaffold scaffold:EIv1.1:cle_scaffold_034612:1:96516:1
+REF
+Length=96516
+
+ Score = 69.9 bits (35),  Expect = 4e-08
+ Identities = 53/59 (90%), Gaps = 0/59 (0%)
+ Strand=Plus/Minus
+
+Query  689    AAAATAATTTATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttt  747
+              |||| |||| || ||||||||||| |||||| |||||||||||||| ||||||||||||
+Sbjct  85423  AAAAAAATTAATACTCCAAAAATGCTATTTTTGAAAGCATTTTGGAATGCTGATTTTTT  85365
+
+
+ Score = 67.9 bits (34),  Expect = 2e-07
+ Identities = 46/50 (92%), Gaps = 0/50 (0%)
+ Strand=Plus/Minus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              ||||||||||||||  |||||| |||||||||||||||| ||||||||||
+Sbjct  81369  ATGCTCCAAAAATGTCATTTTCAAAAGCATTTTGGAGTGATGATTTTTTT  81320
+
+
+>EG:cle_scaffold_033880 dna:scaffold scaffold:EIv1.1:cle_scaffold_033880:1:97642:1
+REF
+Length=97642
+
+ Score = 69.9 bits (35),  Expect = 4e-08
+ Identities = 44/47 (94%), Gaps = 0/47 (0%)
+ Strand=Plus/Minus
+
+Query  702    CTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAttttttt  748
+              ||||||||||| |||||| |||||||||||||||| |||||||||||
+Sbjct  74844  CTCCAAAAATGCTATTTTTGAAAGCATTTTGGAGTACTGATTTTTTT  74798
+
+
+>EG:cle_scaffold_026971 dna:scaffold scaffold:EIv1.1:cle_scaffold_026971:1:110305:1
+REF
+Length=110305
+
+ Score = 69.9 bits (35),  Expect = 4e-08
+ Identities = 47/51 (92%), Gaps = 0/51 (0%)
+ Strand=Plus/Minus
+
+Query  699    ATGCTCCAAAAATGATATTTTCGAAAGCATTTTGGAGTGCTGAtttttttt  749
+              |||||||||||||||||||||| ||||||||| |||||||| || ||||||
+Sbjct  25891  ATGCTCCAAAAATGATATTTTCAAAAGCATTTAGGAGTGCTCATATTTTTT  25841
+
+
+ Score = 48.1 bits (24),  Expect = 0.15
+ Identities = 24/24 (100%), Gaps = 0/24 (0%)
+ Strand=Plus/Plus
+
+Query  651    CAAAGTTTCATCATGAAATGATAT  674
+              ||||||||||||||||||||||||
+Sbjct  25801  CAAAGTTTCATCATGAAATGATAT  25824
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31
+
+Gapped
+Lambda      K        H
+   -1.00    -1.00    -1.00
+
+Effective search space used: 43470912173788
+
+
+  Database: Triticum_aestivum_claire.EIv1.1.dna.toplevel
+    Posted date:  Jun 7, 2024  10:24 PM
+  Number of letters in database: 14,299,452,461
+  Number of sequences in database:  1,216,421
+
+
+
+Matrix: blastn matrix 1 -3

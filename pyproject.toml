@@ -1,0 +1,28 @@
+[project]
+name = "enblastertool"
+version = "0.0.6"
+authors = [
+  { name="katje" },
+]
+description = "Tools for retrieval, analysis and plotting of Ensembl BLAST results"
+readme = "./docs/README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
+[build-system]
+requires = ["hatchling","requests","seaborn","pandas"]
+build-backend = "hatchling.build"
+
+
+[project.urls]
+Homepage = "https://github.com/vargasrichards/ebltools"
+Issues = "https://github.com/vargasrichards/ebltools/issues"
+
+#[tool.hatch.build.targets.wheel]
+#packages = ["."]
+

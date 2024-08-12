@@ -1,0 +1,320 @@
+# Genes which displayed significant disparity in their BLAST scoring by variety are marked with 'SIG' 
+
+# batch 1
+TraesCS2A02G074900 {NULL}
+
+TraesCS2A02G414600 { !SIG
+EG:cad_scaffold_019640 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  5469    0.0
+EG:cle_scaffold_069392 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  5469    0.0
+EG:rob_scaffold_082053 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  5461    0.0
+EG:par_scaffold_016991 dna:scaffold scaffold:EIv1.1:par_scaffold_...  5453    0.0
+}
+
+TraesCS2B02G433800 {NULL}
+TraesCS2D02G411900 {NULL}
+TraesCS3A02G074100 {NULL}
+TraesCS3A02G074200 {NULL}
+TraesCS3A02G274300 {NULL}
+
+TraesCS3B02G088400 { !SIG
+EG:cle_scaffold_046202 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  4740    0.0
+EG:cad_scaffold_050278 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  4742    0.0
+EG:rob_scaffold_046605 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  6792    0.0
+EG:par_scaffold_056890 dna:scaffold scaffold:EIv1.1:par_scaffold_...  4716    0.0
+}
+
+TraesCS3B02G308000
+{ ?SIG
+EG:cle_scaffold_003905 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  6076    0.0
+EG:cle_scaffold_180673 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  7370    0.0
+??? come back to this later... There seem to be too many results
+}
+
+TraesCS3D02G273500 {NULL}
+TraesCS4A02G046700 {??}
+TraesCS4A02G412100 {NULL}
+
+TraesCS4B02G258200 {
+EG:cle_scaffold_163302 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3778    0.0
+EG:cad_scaffold_143487 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3778    0.0
+EG:rob_scaffold_184723 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3755    0.0
+EG:par_scaffold_194082 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3755    0.0
+}
+
+TraesCS4B02G312300 {
+EG:cle_scaffold_096448 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3798    0.0
+EG:cad_scaffold_023930 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3766    0.0
+EG:rob_scaffold_030499 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3766    0.0
+EG:par_scaffold_107818 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3798    0.0
+}
+
+TraesCS4D02G130600 {NULL}
+
+TraesCS4D02G258000{
+EG:cle_scaffold_134713 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  4603    0.0
+EG:cad_scaffold_087210 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  4595    0.0
+EG:rob_scaffold_096149 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  4595    0.0
+EG:par_scaffold_094686 dna:scaffold scaffold:EIv1.1:par_scaffold_...  4603    0.0
+}
+
+TraesCS4D02G309900 {no paragon??}
+
+
+TraesCS5A02G155000 {
+EG:cle_scaffold_094268 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  11668   0.0
+EG:cad_scaffold_001155 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  10372   0.0
+EG:rob_scaffold_077263 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  10520   0.0
+EG:par_scaffold_024568 dna:scaffold scaffold:EIv1.1:par_scaffold_...  11660   0.0
+}
+
+TraesCS5B02G153200 {
+NULL
+}
+
+TraesCS5D02G159900 {
+EG:cle_scaffold_015646 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  10907   0.0
+EG:cad_scaffold_025405 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  9561    0.0
+EG:rob_scaffold_004031 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  9561    0.0
+EG:par_scaffold_017754 dna:scaffold scaffold:EIv1.1:par_scaffold_...  10907   0.0
+}
+
+TraesCS7A02G110500{
+EG:cle_scaffold_116980 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  4209    0.0
+EG:cle_scaffold_095417 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3602    0.0
+EG:cle_scaffold_109446 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3491    0.0
+
+EG:cad_scaffold_005478 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3927    0.0
+EG:cad_scaffold_105447 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3602    0.0
+EG:cad_scaffold_090158 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3491    0.0
+
+EG:rob_scaffold_141089 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  4209    0.0
+EG:rob_scaffold_110356 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3602    0.0
+EG:rob_scaffold_106715 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3491    0.0
+
+
+EG:par_scaffold_038783 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3927    0.0
+EG:par_scaffold_101627 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3602    0.0
+EG:par_scaffold_088869 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3499    0.0
+}
+
+
+TraesCS7A02G418900 {
+EG:cle_scaffold_035949 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  10941   0.0
+EG:cle_scaffold_000244 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1588    0.0
+
+EG:cad_scaffold_072246 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  10941   0.0
+EG:cad_scaffold_005877 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1596    0.0
+
+EG:rob_scaffold_068070 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  6284    0.0
+EG:rob_scaffold_032160 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1596    0.0
+
+EG:par_scaffold_014904 dna:scaffold scaffold:EIv1.1:par_scaffold_...  10941   0.0
+EG:par_scaffold_003843 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1596    0.0
+}
+
+
+TraesCS7B02G008400 {
+EG:cle_scaffold_109446 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  6139    0.0
+EG:cle_scaffold_095417 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3826    0.0
+EG:cle_scaffold_116980 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3533    0.0
+
+EG:cad_scaffold_090158 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  6139    0.0
+EG:cad_scaffold_105447 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3826    0.0
+EG:cad_scaffold_005478 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3267    0.0
+
+EG:rob_scaffold_106715 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  6139    0.0
+EG:rob_scaffold_110356 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3826    0.0
+EG:rob_scaffold_141089 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3533    0.0
+
+EG:par_scaffold_088869 dna:scaffold scaffold:EIv1.1:par_scaffold_...  6286    0.0
+EG:par_scaffold_101627 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3826    0.0
+EG:par_scaffold_038783 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3267    0.0
+
+}
+
+TraesCS7B02G319100 {
+EG:cle_scaffold_000244 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  10213   0.0
+EG:cle_scaffold_035949 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1596    0.0
+
+EG:cad_scaffold_005877 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  10269   0.0
+EG:cad_scaffold_072246 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1596    0.0
+
+EG:rob_scaffold_032160 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  5796    0.0
+EG:rob_scaffold_068070 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1588    0.0
+
+EG:par_scaffold_003843 dna:scaffold scaffold:EIv1.1:par_scaffold_...  10269   0.0
+EG:par_scaffold_014904 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1596    0.0
+}
+
+TraesCS7D02G106000 {
+EG:cle_scaffold_095417 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  4171    0.0
+EG:cle_scaffold_109446 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3568    0.0
+EG:cle_scaffold_116980 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3564    0.0
+
+EG:cad_scaffold_105447 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  4171    0.0
+EG:cad_scaffold_090158 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3568    0.0
+EG:cad_scaffold_005478 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3358    0.0
+
+EG:rob_scaffold_110356 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  4171    0.0
+EG:rob_scaffold_106715 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3568    0.0
+EG:rob_scaffold_141089 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3564    0.0
+
+
+EG:par_scaffold_101627 dna:scaffold scaffold:EIv1.1:par_scaffold_...  4171    0.0
+EG:par_scaffold_088869 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3592    0.0
+EG:par_scaffold_038783 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3358    0.0
+}
+
+TraesCS7D02G411500 {
+null
+
+}
+
+TraesCSU02G085100 {NULL}
+
+# batch 2
+
+TraesCS3A02G466400 {
+no par??
+}
+
+TraesCS3B02G088700
+{
+
+EG:cad_scaffold_749327 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1727    0.0
+EG:cad_scaffold_149228 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1473    0.0
+EG:cad_scaffold_511629 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1461    0.0
+EG:cad_scaffold_008688 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1215    0.0
+
+EG:rob_scaffold_067115 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1578    0.0
+EG:rob_scaffold_134146 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1473    0.0
+EG:rob_scaffold_415044 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1354    0.0
+EG:rob_scaffold_008150 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1215    0.0
+
+EG:cle_scaffold_005618 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1473    0.0
+EG:cle_scaffold_139861 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1437    0.0
+EG:cle_scaffold_077235 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  101     6e-18
+
+EG:par_scaffold_159650 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1586    0.0
+EG:par_scaffold_197948 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1473    0.0
+EG:par_scaffold_672630 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1354    0.0
+EG:par_scaffold_000199 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1215    0.0
+
+}
+
+TraesCS3D02G073900 { ?? }
+
+TraesCS6A02G187200 {null}
+
+TraesCS6D02G174100 {
+EG:cad_scaffold_074811 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  4004    0.0
+EG:cad_scaffold_053024 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  2730    0.0
+EG:cad_scaffold_080850 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  2561    0.0
+
+EG:rob_scaffold_012065 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  4004    0.0
+EG:rob_scaffold_048942 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  2730    0.0
+EG:rob_scaffold_071777 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  2561    0.0
+
+EG:cle_scaffold_011847 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  4004    0.0
+EG:cle_scaffold_042355 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  2722    0.0
+EG:cle_scaffold_053689 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  2561    0.0
+
+EG:par_scaffold_068255 dna:scaffold scaffold:EIv1.1:par_scaffold_...  4004    0.0
+EG:par_scaffold_052260 dna:scaffold scaffold:EIv1.1:par_scaffold_...  2722    0.0
+EG:par_scaffold_083549 dna:scaffold scaffold:EIv1.1:par_scaffold_...  2561    0.0
+}
+
+
+TraesCS7A02G360300 { 
+EG:cad_scaffold_079396 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3071    0.0
+EG:cad_scaffold_071481 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  2615    0.0
+EG:cad_scaffold_058437 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1758    0.0
+
+EG:rob_scaffold_017055 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  2623    0.0
+EG:rob_scaffold_042923 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1758    0.0
+
+EG:cle_scaffold_019191 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3071    0.0
+EG:cle_scaffold_017223 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  2615    0.0
+EG:cle_scaffold_062663 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1758    0.0
+
+EG:par_scaffold_059932 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3071    0.0
+EG:par_scaffold_004372 dna:scaffold scaffold:EIv1.1:par_scaffold_...  2615    0.0
+EG:par_scaffold_109150 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1758    0.0
+}
+
+TraesCS7B02G267500 {
+EG:cad_scaffold_071481 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  4044    0.0
+EG:cad_scaffold_079396 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  2640    0.0
+EG:cad_scaffold_058437 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  2353    0.0
+
+EG:rob_scaffold_017055 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  4052    0.0
+EG:rob_scaffold_042923 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  2353    0.0
+
+EG:cle_scaffold_017223 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  4044    0.0
+EG:cle_scaffold_019191 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  2640    0.0
+EG:cle_scaffold_062663 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  2353    0.0
+
+
+EG:par_scaffold_004372 dna:scaffold scaffold:EIv1.1:par_scaffold_...  4044    0.0
+EG:par_scaffold_059932 dna:scaffold scaffold:EIv1.1:par_scaffold_...  2640    0.0
+EG:par_scaffold_109150 dna:scaffold scaffold:EIv1.1:par_scaffold_...  2353    0.0
+}
+
+TraesCS7D02G362800 {NULL}
+
+TraesCSU02G146300{
+EG:cad_scaffold_149228 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  3881    0.0
+EG:cad_scaffold_511629 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1731    0.0
+EG:cad_scaffold_749327 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1461    0.0
+EG:cad_scaffold_008688 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  936     0.0
+
+EG:rob_scaffold_415044 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  3838    0.0
+EG:rob_scaffold_134146 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  2105    0.0
+EG:rob_scaffold_067115 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1554    0.0
+EG:rob_scaffold_008150 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  936     0.0
+
+EG:cle_scaffold_005618 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  3838    0.0
+EG:cle_scaffold_139861 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1679    0.0
+
+EG:par_scaffold_672630 dna:scaffold scaffold:EIv1.1:par_scaffold_...  3971    0.0
+EG:par_scaffold_197948 dna:scaffold scaffold:EIv1.1:par_scaffold_...  2105    0.0
+EG:par_scaffold_159650 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1695    0.0
+EG:par_scaffold_000199 dna:scaffold scaffold:EIv1.1:par_scaffold_...  936     0.0
+}
+
+
+TraesCSU02G235400 {
+EG:cad_scaffold_749327 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1515    0.0
+EG:cad_scaffold_149228 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1409    0.0
+EG:cad_scaffold_511629 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  1330    0.0
+EG:cad_scaffold_008688 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  922     0.0
+
+EG:rob_scaffold_067115 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1515    0.0
+EG:rob_scaffold_134146 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1409    0.0
+EG:rob_scaffold_415044 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  1070    0.0
+EG:rob_scaffold_008150 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  922     0.0
+
+EG:cle_scaffold_005618 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1409    0.0
+EG:cle_scaffold_139861 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  1374    0.0
+
+EG:par_scaffold_197948 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1409    0.0
+EG:par_scaffold_672630 dna:scaffold scaffold:EIv1.1:par_scaffold_...  1070    0.0
+EG:par_scaffold_000199 dna:scaffold scaffold:EIv1.1:par_scaffold_...  922     0.0
+}
+
+
+
+#-------------------------------------------------------------------------------
+List of Significants:
+
+
+
+#------------------------------------------------------------------------------
+Redo/Manually Investigate:
+
+
+
+# Significants will be investigated by MSA for all seqs + query seq with e-val = 0
+# script can be used to filter these ... 
+
+

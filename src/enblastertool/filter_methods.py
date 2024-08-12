@@ -1,10 +1,11 @@
 '''
 Filters the blast results to select those fulfilling user-specified conditions
-(see 'config.yaml')
-then calls msa on them.
+(see 'config.yaml') and then calls multiple sequence alignment (MSA) on them. At the 
+moment this uses MUSCLE to perform the MSA, but could be easily changed to use e.g., ClustalW.
 
 Planned developments include integration of Python plugins which can be supplied by the user for
 more advanced functionality
+
 A. Vargas Richards, 09.08.2024
 '''
 
@@ -18,10 +19,10 @@ def tabulate(summary_file): # first convert the summary file to a pandas datafra
     return
 
 def make_filter(config_file, plugin): # construct filter rules to apply to the dataframe
-    
+    # read in configuration file 
 
 
-    return 
+    return filtered_data
 
 def apply_filter(dataframe, filter_rules): # apply the specified filter rules to the dataframe
 

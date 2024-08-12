@@ -3,6 +3,7 @@
 # batch 1
 TraesCS2A02G074900 {NULL}
 
+*ALN1*
 TraesCS2A02G414600 { !SIG
 EG:cad_scaffold_019640 dna:scaffold scaffold:EIv1.1:cad_scaffold_...  5469    0.0
 EG:cle_scaffold_069392 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  5469    0.0
@@ -15,6 +16,7 @@ TraesCS2D02G411900 {NULL}
 TraesCS3A02G074100 {NULL}
 TraesCS3A02G074200 {NULL}
 TraesCS3A02G274300 {NULL}
+
 
 TraesCS3B02G088400 { !SIG
 EG:cle_scaffold_046202 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  4740    0.0

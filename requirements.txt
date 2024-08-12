@@ -3,7 +3,6 @@ certifi==2024.7.4
 charset-normalizer==3.3.2
 contourpy==1.2.1
 cycler==0.12.1
-#enblastertool @ file:///home/katje/Documents/enblastertools/dist/enblastertool-0.0.6-py3-none-any.whl
 fonttools==4.53.1
 idna==3.7
 kiwisolver==1.4.5

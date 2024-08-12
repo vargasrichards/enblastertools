@@ -39,3 +39,4 @@ def main_routine(infile, outfile):
     return goi_mapped
 
 # main_routine(infile='genes_of_interest.csv', outfile='mapped_goi.csv')
+# fetch_position('cle_scaffold_219196')

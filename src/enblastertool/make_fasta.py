@@ -32,7 +32,6 @@ def to_fasta(blast_results):
     query, query_id = get_query(blast_results)
     fasta_file = blast_results + '.fasta'
     if query != None:
-
         with open(blast_results, 'r') as results:
             with open(fasta_file, 'w') as fasta:
                 fasta.write(f">Query:{query_id}\n")
@@ -60,6 +59,6 @@ def make_all(directory):
                 #print(f"Skipped file {file}; it is already a FASTA or a summary file")
                 pass
     print(f"Finished summarising directory {directory}")
-
+    return
 
 

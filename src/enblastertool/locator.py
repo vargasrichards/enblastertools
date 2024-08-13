@@ -21,3 +21,5 @@ def get_range(id):
     print(f'Sequence {id_verif} starts at {start} and ends at {stop}')
     return start, stop, id_verif # return the start point, end point and id of the seq of interest. 
 
+# note that the stability of this function cannot be guaranteed given its web interaction and therefore its functionality
+# should be checked before using it. 

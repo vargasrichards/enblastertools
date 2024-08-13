@@ -11,6 +11,8 @@ EG:rob_scaffold_082053 dna:scaffold scaffold:EIv1.1:rob_scaffold_...  5461    0.
 EG:par_scaffold_016991 dna:scaffold scaffold:EIv1.1:par_scaffold_...  5453    0.0
 }
 
+# now need to make this 
+
 TraesCS2B02G433800 {NULL}
 TraesCS2D02G411900 {NULL}
 TraesCS3A02G074100 {NULL}
@@ -29,7 +31,7 @@ TraesCS3B02G308000
 { ?SIG
 EG:cle_scaffold_003905 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  6076    0.0
 EG:cle_scaffold_180673 dna:scaffold scaffold:EIv1.1:cle_scaffold_...  7370    0.0
-??? come back to this later... There seem to be too many results
+??? come back to this later... There seem to be too many results - possibly an error with the shellscript.
 }
 
 TraesCS3D02G273500 {NULL}
@@ -318,5 +320,5 @@ Redo/Manually Investigate:
 
 # Significants will be investigated by MSA for all seqs + query seq with e-val = 0
 # script can be used to filter these ... 
-
+# 
 

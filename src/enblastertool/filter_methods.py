@@ -4,7 +4,7 @@ Filters the blast results to select those fulfilling user-specified conditions
 moment this uses MUSCLE to perform the MSA, but could be easily changed to use e.g., ClustalW.
 
 Planned developments include integration of Python plugins which can be supplied by the user for
-more advanced functionality
+more advanced functionality.
 
 A. Vargas Richards, 09.08.2024
 '''
@@ -29,7 +29,14 @@ def apply_filter(dataframe, filter_rules): # apply the specified filter rules to
         new_df = pd.concat([new_df, filtd_row])
     return new_df # return the filtered results
 
+def results_file(filtered_df): # takes a post-filtering dataframe as input and returns a text file
+    # the resulting textfile can then 
 
+
+
+    return results_file
+
+def realign(results_file)
 
 
 def test():
@@ -56,3 +63,5 @@ test()
 What will the fields in the dataframe be ....
 
 '''
+
+def main(): #  can be called from the primary script if desired & implements a draft workflow.

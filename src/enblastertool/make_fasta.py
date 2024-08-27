@@ -1,10 +1,10 @@
-# Make a fasta file from the BLAST results using simple filter rules
+# Make a fasta file from the BLAST results.
 # This can then be used for more specialised MSA and downstream analysis + visualisation
 # A. Vargas Richards, 07.2024
 
 import textwrap, os, requests, sys
 
-def get_geneid(gene_id):
+def get_geneid(gene_id): # uses the recommeneded code for the Ensembl REST API
     server = "https://rest.ensembl.org"
     ext = f"/sequence/id/{gene_id}?"
     r = requests.get(server + ext, headers={"Content-Type": "text/plain"})
@@ -39,12 +39,15 @@ def to_fasta(blast_results):
                 query = '\n'.join(query)
                 fasta.write(query + "\n")
                 for line in results:
-                    if '>' in line:
-                        fasta.write(line)
-                    elif 'Sbjct' in line:
-                        line = ''.join([i for i in line if not i.isdigit()]) 
-                        line = line.replace('Sbjct    ', '').strip()
-                        fasta.write(line + "\n")
+                    if 'href' in line: # filters any residual html content
+                        pass
+                    else:
+                        if '>' in line:
+                            fasta.write(line)
+                        elif 'Sbjct' in line:
+                            line = ''.join([i for i in line if not i.isdigit()]) 
+                            line = line.replace('Sbjct    ', '').strip()
+                            fasta.write(line + "\n")
         print(f"Produced FASTA: {fasta_file}")
     return 
 
@@ -62,3 +65,5 @@ def make_all(directory):
     return
 
 
+# source:
+# 
